@@ -1,102 +1,32 @@
 name: "KiCad GitHub actions"
 
-# Controls when the action will run.
 on:
   push:
     paths:
-      - '*.kicad_sch'
-      - '*.kicad_pcb'
-      - '*.kibot.yaml'
-      - '.github/workflows/kibot_action.yml'
+    - '**.sch'
+    - '**.kicad_pcb'
   pull_request:
     paths:
-      - '*.kicad_sch'
-      - '*.kicad_pcb'
-      - '*.kibot.yaml'
-      - '.github/workflows/kibot_action.yml'
-  repository_dispatch:
-    types: [run_gha]
+      - '**.sch'
+      - '**.kicad_pcb'
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  ERC:
+  example:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3
-
-    - name: Run ERC
-      uses: INTI-CMNB/KiBot@v2_k7
-      with:
-        dir: Generated
-        skip: run_drc
-        targets: __NONE__
-
-    - name: Retrieve results
-      uses: actions/upload-artifact@v3
-      with:
-        name: ERC_Output
-        path: Generated
-
-
-  DRC:
-    runs-on: ubuntu-latest
-    needs: ERC
-
-    steps:
-    - uses: actions/checkout@v3
-
-    - name: Run DRC
-      uses: INTI-CMNB/KiBot@v2_k7
-      with:
-        dir: Generated
-        skip: run_erc
-        targets: __NONE__
-
-    - name: Retrieve results
-      uses: actions/upload-artifact@v3
-      with:
-        name: DRC_Output
-        path: Generated
-
-
-  ergo:
-    name: "Ergo variant"
-    runs-on: ubuntu-latest
-    needs: [ERC, DRC]
-
-    steps:
-    - uses: actions/checkout@v3
-
+    - uses: actions/checkout@v2
     - uses: INTI-CMNB/KiBot@v2_k7
       with:
-        dir: ergo
-        variant: ergo
-        skip: run_erc,run_drc
-
+        # Required - kibot config file
+        config: kibot_generated.kibot.yaml
+        # optional - prefix to output defined in config
+        dir: output
+        # optional - schematic file
+        schema: '*.kicad_sch'
+        # optional - PCB design file
+        board: '*.kicad_pcb'
     - name: upload results
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v2
       with:
-        name: ergo_variant
-        path: ergo
-
-
-  rectangular:
-    name: "Rectangular variant"
-    runs-on: ubuntu-latest
-    needs: [ERC, DRC]
-
-    steps:
-    - uses: actions/checkout@v3
-
-    - uses: INTI-CMNB/KiBot@v2_k7
-      with:
-        dir: rectangular
-        variant: rectangular
-        skip: run_erc,run_drc
-
-    - name: upload results
-      uses: actions/upload-artifact@v3
-      with:
-        name: rectangular_variant
-        path: rectangular
+        name: output
+        path: output
