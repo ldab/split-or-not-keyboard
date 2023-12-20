@@ -10,3 +10,24 @@ FoMO ZMK Ortholinear keyboard, if you can't decide between split or not.
 <p align="center">
   <img src="extras/split-or-not-keyboard.png" width="30%">
 </p>
+
+## Todo
+
+
+## Why?
+
+Maybe you are here because you are considering a ZMK keyboard and you don't know if you are ready for a split keyboard? Or you don't know if you prefer a rectangular or "ergo" design? Or you have fear or missing out and want to try all of them but don't want to spend all your money?
+
+## How?
+
+
+
+## Designed with KiCAD 7.09
+
+* Important libs are added as plugin as per described on https://github.com/ebastler/marbastlib
+
+## Outro
+
+* Some similarities with below may be found:
+  * https://github.com/piit79/rev57lp/
+  * https://github.com/MakotoKurauchi/helix
