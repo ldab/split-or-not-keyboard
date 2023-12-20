@@ -38,36 +38,6 @@ outputs:
   options:
     format: CSV
     count_smd_tht: true
-- name: generic_bom_hrtxt
-  comment: Generic Bill of Materials in HRTXT format
-  type: bom
-  dir: BoM/Generic
-  options:
-    format: HRTXT
-    hrtxt:
-      separator: '|'
-    count_smd_tht: true
-- name: generic_bom_tsv
-  comment: Generic Bill of Materials in TSV format
-  type: bom
-  dir: BoM/Generic
-  options:
-    format: TSV
-    count_smd_tht: true
-- name: generic_bom_xml
-  comment: Generic Bill of Materials in XML format
-  type: bom
-  dir: BoM/Generic
-  options:
-    format: XML
-    count_smd_tht: true
-- name: generic_bom_xlsx
-  comment: Generic Bill of Materials in XLSX format
-  type: bom
-  dir: BoM/Generic
-  options:
-    format: XLSX
-    count_smd_tht: true
 - name: positional_bom_html
   comment: Positional Bill of Materials in HTML format
   type: bom
@@ -99,16 +69,6 @@ outputs:
     - Footprint Y-Size
     count_smd_tht: true
     html:
-      style: modern-red
-- name: positional_bom_xlsx
-  comment: Positional Bill of Materials in XLSX format
-  type: bom
-  dir: BoM/Positional
-  options:
-    format: XLSX
-    columns: *id001
-    count_smd_tht: true
-    xlsx:
       style: modern-red
 - name: costs_bom_xlsx
   comment: Costs Bill of Materials in XLSX format
