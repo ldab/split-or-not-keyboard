@@ -3,13 +3,13 @@ Size:
 
 - 250.29x117.52 mm
 
-Class: 8A
+Class: 8B
 
-Track width: >= N/A mm
+Track width: >= 0.2 mm
 
 Insulation distance: >= 0.2 mm
 
-Minimum drill size: >= 1.5 mm (finished metalized hole: 1.5 mm)
+Minimum drill size: >= 0.5 mm (finished metalized hole: 0.4 mm)
 
 Minimum slot width: >= N/A mm
 
