@@ -56,9 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "copper_edge_clearance|149700668|142614532|62a1226b-3386-4e54-9434-74573a4eea73|43229dae-5fe6-4069-9d89-f220bbe1d7db"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -415,7 +413,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ergo56.kicad_pro",
+    "filename": "basic60.kicad_pro",
     "version": 1
   },
   "net_settings": {

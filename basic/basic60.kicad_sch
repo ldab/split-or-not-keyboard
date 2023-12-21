@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "ergo56")
+    (title "basic60")
     (date "2023-12-20")
     (rev "0.1")
     (company "github.com/LDAB")
@@ -1208,6 +1208,9 @@
   (junction (at 270.51 91.44) (diameter 0) (color 0 0 0 0)
     (uuid 21fa5416-bfb3-469f-9ce2-3236eb7de7c1)
   )
+  (junction (at 36.83 83.185) (diameter 0) (color 0 0 0 0)
+    (uuid 277f2549-a1fa-447e-a115-146e7f1ea1fe)
+  )
   (junction (at 194.945 27.94) (diameter 0) (color 0 0 0 0)
     (uuid 27c4097c-f549-497f-b89a-34d0f268a6e8)
   )
@@ -1232,6 +1235,9 @@
   (junction (at 88.9 111.76) (diameter 0) (color 0 0 0 0)
     (uuid 34407c30-95e8-467e-8f49-39a36a7273ed)
   )
+  (junction (at 48.895 111.76) (diameter 0) (color 0 0 0 0)
+    (uuid 37b9f2c3-6e63-4d9a-a606-6311ffa12124)
+  )
   (junction (at 270.51 71.12) (diameter 0) (color 0 0 0 0)
     (uuid 38a927b1-0a23-4fa2-aea5-c9f8ad356523)
   )
@@ -1246,6 +1252,9 @@
   )
   (junction (at 130.175 70.485) (diameter 0) (color 0 0 0 0)
     (uuid 3cda218f-93d9-483d-bc0f-139ca8f466ff)
+  )
+  (junction (at 67.31 111.76) (diameter 0) (color 0 0 0 0)
+    (uuid 43e9d3c0-53cb-4ed7-9fde-f1ce9fae6046)
   )
   (junction (at 226.695 112.395) (diameter 0) (color 0 0 0 0)
     (uuid 456145dd-8e8f-47f8-b3a1-2ec37bed0b59)
@@ -1292,6 +1301,9 @@
   (junction (at 109.855 111.76) (diameter 0) (color 0 0 0 0)
     (uuid 6f9a58c1-cf70-48b4-98ea-98aa24be85d7)
   )
+  (junction (at 246.38 112.395) (diameter 0) (color 0 0 0 0)
+    (uuid 71542509-df81-4cca-8509-c7dc39da71db)
+  )
   (junction (at 17.145 43.815) (diameter 0) (color 0 0 0 0)
     (uuid 716a2265-20bc-4e93-ae71-3ed7c86aef43)
   )
@@ -1319,6 +1331,9 @@
   (junction (at 99.695 62.865) (diameter 0) (color 0 0 0 0)
     (uuid 8fb77da4-f936-4d27-a43d-36b833169980)
   )
+  (junction (at 17.145 83.185) (diameter 0) (color 0 0 0 0)
+    (uuid 91ba4cc7-2ea2-4a26-a6fc-3da4908234d4)
+  )
   (junction (at 216.535 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 9312d781-bc76-4fa1-b58a-9970b6534b90)
   )
@@ -1345,6 +1360,9 @@
   )
   (junction (at 226.695 35.56) (diameter 0) (color 0 0 0 0)
     (uuid a408045b-6487-46cb-ac72-a3ea790a88e5)
+  )
+  (junction (at 236.22 83.82) (diameter 0) (color 0 0 0 0)
+    (uuid a524f49d-5e77-46c6-b821-d9cff8cb0b79)
   )
   (junction (at 36.83 62.865) (diameter 0) (color 0 0 0 0)
     (uuid a57b426d-4bca-49aa-8c76-6f0e50979f60)
@@ -1388,6 +1406,9 @@
   (junction (at 186.055 52.07) (diameter 0) (color 0 0 0 0)
     (uuid c5a8d009-d979-4903-88c2-f77363561b7b)
   )
+  (junction (at 270.51 112.395) (diameter 0) (color 0 0 0 0)
+    (uuid c6f0180c-019a-477b-9865-b6883345da89)
+  )
   (junction (at 17.145 27.305) (diameter 0) (color 0 0 0 0)
     (uuid c8bb8ea8-dc90-44cc-a777-1bf8d3f6bd53)
   )
@@ -1399,6 +1420,9 @@
   )
   (junction (at 246.38 71.12) (diameter 0) (color 0 0 0 0)
     (uuid ceb6c226-bd83-4efd-98af-2d982270f9de)
+  )
+  (junction (at 260.35 83.82) (diameter 0) (color 0 0 0 0)
+    (uuid cf9382ba-c7f8-4cfa-b9c7-9cb5e0725b4a)
   )
   (junction (at 109.22 174.625) (diameter 0) (color 0 0 0 0)
     (uuid d0a609a9-b895-4fb4-94d8-b9b31f18bbb2)
@@ -1652,6 +1676,10 @@
     (stroke (width 0) (type default))
     (uuid 381c4ffc-27a5-4eee-9a58-7afd7451d60e)
   )
+  (wire (pts (xy 236.22 83.82) (xy 236.22 104.775))
+    (stroke (width 0) (type default))
+    (uuid 3843213c-e18f-48f9-ac5a-74db2eadedfb)
+  )
   (wire (pts (xy 175.895 27.94) (xy 175.895 44.45))
     (stroke (width 0) (type default))
     (uuid 3b9acb1a-cd5a-4152-880e-4c6165d8a7a1)
@@ -1683,6 +1711,10 @@
   (wire (pts (xy 236.22 44.45) (xy 236.22 63.5))
     (stroke (width 0) (type default))
     (uuid 53315059-bb41-4f20-9974-00e4f528a476)
+  )
+  (wire (pts (xy 246.38 112.395) (xy 270.51 112.395))
+    (stroke (width 0) (type default))
+    (uuid 5447ef86-b42b-493b-863e-e57efd691732)
   )
   (wire (pts (xy 40.005 186.69) (xy 40.005 182.88))
     (stroke (width 0) (type default))
@@ -1724,6 +1756,10 @@
     (stroke (width 0) (type default))
     (uuid 5f06e912-1dfa-4121-a32c-01a0396fea8a)
   )
+  (wire (pts (xy 27.305 111.76) (xy 48.895 111.76))
+    (stroke (width 0) (type default))
+    (uuid 61a62461-a14a-49ab-9ae0-23c11eaec59b)
+  )
   (wire (pts (xy 236.22 63.5) (xy 236.22 83.82))
     (stroke (width 0) (type default))
     (uuid 62424b23-86a0-46bb-9b34-b9e51443c544)
@@ -1748,6 +1784,10 @@
     (stroke (width 0) (type default))
     (uuid 6a34f905-12ec-4348-ba38-e4c068284133)
   )
+  (wire (pts (xy 38.735 104.14) (xy 36.83 104.14))
+    (stroke (width 0) (type default))
+    (uuid 6b0ec522-b6b0-4fce-b3af-a4b05cf789d5)
+  )
   (wire (pts (xy 180.34 147.32) (xy 182.88 147.32))
     (stroke (width 0) (type default))
     (uuid 6e7829f8-23cd-483a-8610-038592759fde)
@@ -1771,6 +1811,10 @@
   (wire (pts (xy 88.9 111.76) (xy 109.855 111.76))
     (stroke (width 0) (type default))
     (uuid 7565ed55-3d05-40ad-9e50-d9667b030a38)
+  )
+  (wire (pts (xy 270.51 112.395) (xy 274.955 112.395))
+    (stroke (width 0) (type default))
+    (uuid 76335986-1b22-4006-bd5a-3b475aa7914d)
   )
   (wire (pts (xy 260.35 25.4) (xy 260.35 27.94))
     (stroke (width 0) (type default))
@@ -1896,6 +1940,10 @@
     (stroke (width 0) (type default))
     (uuid 9fef7b66-fda4-4b93-b3fb-52d61ecdff38)
   )
+  (wire (pts (xy 48.895 111.76) (xy 67.31 111.76))
+    (stroke (width 0) (type default))
+    (uuid a21e4960-990f-4e61-a87e-4e5b551d2c4e)
+  )
   (wire (pts (xy 27.305 90.805) (xy 46.99 90.805))
     (stroke (width 0) (type default))
     (uuid a2c2acde-b2f4-444c-998d-0d49825f81b3)
@@ -1928,7 +1976,7 @@
     (stroke (width 0) (type default))
     (uuid a9d986d6-edb5-4c74-8793-7f08daf36eb8)
   )
-  (wire (pts (xy 226.695 112.395) (xy 274.955 112.395))
+  (wire (pts (xy 226.695 112.395) (xy 246.38 112.395))
     (stroke (width 0) (type default))
     (uuid aaa06e3e-3686-4b9e-9f00-321e3b878fe2)
   )
@@ -1971,6 +2019,10 @@
   (wire (pts (xy 67.31 51.435) (xy 88.9 51.435))
     (stroke (width 0) (type default))
     (uuid b642d797-8246-4afc-a2e2-567914583ad6)
+  )
+  (wire (pts (xy 260.35 83.82) (xy 260.35 104.775))
+    (stroke (width 0) (type default))
+    (uuid b70c2303-1452-4912-a050-17d9adafc765)
   )
   (wire (pts (xy 120.015 43.815) (xy 120.015 62.865))
     (stroke (width 0) (type default))
@@ -2096,6 +2148,10 @@
     (stroke (width 0) (type default))
     (uuid d7665632-a134-4a8c-acc0-ca421e7fb031)
   )
+  (wire (pts (xy 17.145 83.185) (xy 17.145 104.14))
+    (stroke (width 0) (type default))
+    (uuid d7cd49f6-d128-42f2-a391-56c17a7a5676)
+  )
   (wire (pts (xy 52.07 121.92) (xy 52.07 129.54))
     (stroke (width 0) (type default))
     (uuid d9f2bc84-bd77-4899-b184-df6539fa69cb)
@@ -2147,6 +2203,10 @@
   (wire (pts (xy 194.945 63.5) (xy 194.945 83.82))
     (stroke (width 0) (type default))
     (uuid e90df021-6fce-45e5-8229-d1415d2c13ca)
+  )
+  (wire (pts (xy 36.83 104.14) (xy 36.83 83.185))
+    (stroke (width 0) (type default))
+    (uuid e96ef4e0-3322-4897-b899-1ef7e4bf5880)
   )
   (wire (pts (xy 164.465 52.07) (xy 186.055 52.07))
     (stroke (width 0) (type default))
@@ -2293,7 +2353,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "SWDCLK" (shape output) (at 44.45 124.46 180) (fields_autoplaced)
+  (global_label "SWCLK" (shape output) (at 44.45 124.46 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 3b728dfa-66aa-459b-9434-5a6b705adf9c)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 34.62 124.46 0)
@@ -2538,7 +2598,7 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "SWDIO" (shape bidirectional) (at 44.45 127 180) (fields_autoplaced)
+  (global_label "SWIO" (shape bidirectional) (at 44.45 127 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid b6c7941b-e5ea-497a-9097-7cb6130eaaa0)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.3003 127 0)
@@ -2615,7 +2675,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "SWDCLK" (shape output) (at 253.365 140.97 0) (fields_autoplaced)
+  (global_label "SWCLK" (shape output) (at 253.365 140.97 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e6181999-680b-4db2-85ff-f9cc10a0f1b9)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 263.195 140.97 0)
@@ -2643,7 +2703,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "SWDIO" (shape bidirectional) (at 253.365 143.51 0) (fields_autoplaced)
+  (global_label "SWIO" (shape bidirectional) (at 253.365 143.51 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f09090e9-8e06-45b1-a751-2770d098d871)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 262.5147 143.51 0)
@@ -2661,7 +2721,7 @@
   (symbol (lib_id "power:GND") (at 67.31 137.16 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060488c68)
-    (property "Reference" "#PWR0102" (at 73.66 137.16 0)
+    (property "Reference" "#PWR09" (at 73.66 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 70.5612 137.033 90)
@@ -2675,9 +2735,9 @@
     )
     (pin "1" (uuid 26de6c81-b305-4701-89b3-277226af63f8))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR0102") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -2686,7 +2746,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 22.225 43.815 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000604dd518)
-    (property "Reference" "SwA0" (at 22.225 36.576 0)
+    (property "Reference" "SW13" (at 22.225 36.576 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 22.225 38.8874 0)
@@ -2701,9 +2761,9 @@
     (pin "1" (uuid d9c83c48-9c91-4a6e-a3c1-ff68a7431299))
     (pin "2" (uuid cef81ed1-b993-44f5-a61c-5035b25226e1))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA0") (unit 1)
+          (reference "SW13") (unit 1)
         )
       )
     )
@@ -2712,7 +2772,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 27.305 47.625 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000604dd7fe)
-    (property "Reference" "D_A0" (at 29.337 46.4566 90)
+    (property "Reference" "D13" (at 29.337 46.4566 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 29.337 48.768 90)
@@ -2733,9 +2793,9 @@
     (pin "1" (uuid d1f57772-5ce6-4b85-bd55-bf5b4526514f))
     (pin "2" (uuid f7de8750-f82b-4a0f-bf9b-94727646f22a))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A0") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
     )
@@ -2744,7 +2804,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 164.465 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060a8983f)
-    (property "Reference" "D_B0" (at 166.497 47.0916 90)
+    (property "Reference" "D19" (at 166.497 47.0916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 166.497 49.403 90)
@@ -2765,9 +2825,9 @@
     (pin "1" (uuid 88df5c50-660c-4f56-a770-ffe066d61a72))
     (pin "2" (uuid 32e7648c-e2f1-4bcb-ad37-820e92a0f229))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B0") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -2776,7 +2836,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 159.385 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060a89cf5)
-    (property "Reference" "SwB0" (at 159.385 37.211 0)
+    (property "Reference" "SW19" (at 159.385 37.211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 159.385 39.5224 0)
@@ -2791,9 +2851,9 @@
     (pin "1" (uuid ba46e104-3025-4d5a-a13b-aecf6bb18594))
     (pin "2" (uuid 114d0c94-58bb-4cd1-ad45-12e273725579))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB0") (unit 1)
+          (reference "SW19") (unit 1)
         )
       )
     )
@@ -2802,7 +2862,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 46.99 47.625 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060ae88ad)
-    (property "Reference" "D_A1" (at 49.022 46.4566 90)
+    (property "Reference" "D14" (at 49.022 46.4566 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 49.022 48.768 90)
@@ -2823,9 +2883,9 @@
     (pin "1" (uuid ad862eec-ef06-4947-8775-115e3b8eb85e))
     (pin "2" (uuid 01a3bd09-e865-4665-90b9-1da67bc8b691))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A1") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
@@ -2834,7 +2894,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 41.91 43.815 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060ae89c6)
-    (property "Reference" "SwA1" (at 41.91 36.576 0)
+    (property "Reference" "SW14" (at 41.91 36.576 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 41.91 38.8874 0)
@@ -2849,9 +2909,9 @@
     (pin "1" (uuid c31eff0b-3742-41f9-9e11-ba2d6accc7fa))
     (pin "2" (uuid d38de86f-b66a-45cb-97d8-99b3fb04d582))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA1") (unit 1)
+          (reference "SW14") (unit 1)
         )
       )
     )
@@ -2860,7 +2920,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 186.055 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b0fd09)
-    (property "Reference" "D_B1" (at 188.087 47.0916 90)
+    (property "Reference" "D20" (at 188.087 47.0916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 188.087 49.403 90)
@@ -2881,9 +2941,9 @@
     (pin "1" (uuid c3118a57-0a66-4825-8f5a-bc59b609fd5a))
     (pin "2" (uuid 678e4f39-29d4-45a6-8f07-61110902bd14))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B1") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -2892,7 +2952,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 180.975 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b0fe63)
-    (property "Reference" "SwB1" (at 180.975 37.211 0)
+    (property "Reference" "SW20" (at 180.975 37.211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 180.975 39.5224 0)
@@ -2907,9 +2967,9 @@
     (pin "1" (uuid 675034f7-1d30-471a-904e-be2505df9193))
     (pin "2" (uuid fff681c6-a285-4c19-ac68-89b099cbc152))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB1") (unit 1)
+          (reference "SW20") (unit 1)
         )
       )
     )
@@ -2918,7 +2978,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 27.305 66.675 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50824)
-    (property "Reference" "D_C0" (at 29.337 65.5066 90)
+    (property "Reference" "D25" (at 29.337 65.5066 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 29.337 67.818 90)
@@ -2939,9 +2999,9 @@
     (pin "1" (uuid 5ac77148-80e5-41a3-a338-1d77de4480d5))
     (pin "2" (uuid d69e474a-b7c4-4d96-8ffc-3cd49824fcfa))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_C0") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -2950,7 +3010,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 22.225 62.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50ade)
-    (property "Reference" "SwC0" (at 22.225 55.626 0)
+    (property "Reference" "SW25" (at 22.225 55.626 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 22.225 57.9374 0)
@@ -2965,9 +3025,9 @@
     (pin "1" (uuid e3991d3a-4906-479b-8331-b9caf9f87fad))
     (pin "2" (uuid 12c2e850-09a2-4284-8a59-11d483714325))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwC0") (unit 1)
+          (reference "SW25") (unit 1)
         )
       )
     )
@@ -2976,7 +3036,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 164.465 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50aff)
-    (property "Reference" "D_D0" (at 166.497 66.1416 90)
+    (property "Reference" "D31" (at 166.497 66.1416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 166.497 68.453 90)
@@ -2997,9 +3057,9 @@
     (pin "1" (uuid 8c0f0345-441b-4e72-b40a-1b259406346c))
     (pin "2" (uuid b8a5834c-2e46-41fc-95da-93db468e0075))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_D0") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -3008,7 +3068,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 159.385 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50b09)
-    (property "Reference" "SwD0" (at 159.385 56.261 0)
+    (property "Reference" "SW31" (at 159.385 56.261 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 159.385 58.5724 0)
@@ -3023,9 +3083,9 @@
     (pin "1" (uuid c566607a-ed73-4dd1-bced-a0f9e98d27e4))
     (pin "2" (uuid 888c712f-92f3-4658-a625-469b720eb517))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwD0") (unit 1)
+          (reference "SW31") (unit 1)
         )
       )
     )
@@ -3034,7 +3094,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 46.99 66.675 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50b2b)
-    (property "Reference" "D_C1" (at 49.022 65.5066 90)
+    (property "Reference" "D26" (at 49.022 65.5066 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 49.022 67.818 90)
@@ -3055,9 +3115,9 @@
     (pin "1" (uuid 76af94e2-2250-4288-a448-f18ab5ba0b5e))
     (pin "2" (uuid 69070779-1f86-49f6-8a20-8b15ce52d808))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_C1") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -3066,7 +3126,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 41.91 62.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50b35)
-    (property "Reference" "SwC1" (at 41.91 55.626 0)
+    (property "Reference" "SW26" (at 41.91 55.626 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 41.91 57.9374 0)
@@ -3081,9 +3141,9 @@
     (pin "1" (uuid 86d72c5b-14a8-4c07-9b1a-09ef5f552ac1))
     (pin "2" (uuid 87400994-0a18-46e3-acff-430e8fe187bb))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwC1") (unit 1)
+          (reference "SW26") (unit 1)
         )
       )
     )
@@ -3092,7 +3152,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 186.055 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50b5b)
-    (property "Reference" "D_D1" (at 188.087 66.1416 90)
+    (property "Reference" "D32" (at 188.087 66.1416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 188.087 68.453 90)
@@ -3113,9 +3173,9 @@
     (pin "1" (uuid 74027727-b456-4af2-bac7-7657954b8685))
     (pin "2" (uuid 28b0b97a-b467-4ee1-b8ef-9945c20634ae))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_D1") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -3124,7 +3184,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 180.975 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060b50b65)
-    (property "Reference" "SwD1" (at 180.975 56.261 0)
+    (property "Reference" "SW32" (at 180.975 56.261 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 180.975 58.5724 0)
@@ -3139,9 +3199,9 @@
     (pin "1" (uuid bec96098-7826-4aaf-a731-ff89faa28a9d))
     (pin "2" (uuid a73d2e16-8c97-4165-98d0-30fdad0408a8))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwD1") (unit 1)
+          (reference "SW32") (unit 1)
         )
       )
     )
@@ -3150,7 +3210,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 27.305 86.995 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8b03)
-    (property "Reference" "D_E0" (at 29.337 85.8266 90)
+    (property "Reference" "D37" (at 29.337 85.8266 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 29.337 88.138 90)
@@ -3171,9 +3231,9 @@
     (pin "1" (uuid 680b5026-e0cb-4d20-8695-ff9d30eee7b5))
     (pin "2" (uuid a9b998a5-3b63-475a-ae9c-4ded1cb7b3d7))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_E0") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -3182,7 +3242,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 22.225 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8e85)
-    (property "Reference" "SwE0" (at 22.225 75.946 0)
+    (property "Reference" "SW37" (at 22.225 75.946 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 22.225 78.2574 0)
@@ -3197,9 +3257,9 @@
     (pin "1" (uuid 2ad119a6-4155-40ca-979d-c79df1ad63e7))
     (pin "2" (uuid 9a17e937-0d89-46e2-97ed-a3fc63bdae56))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwE0") (unit 1)
+          (reference "SW37") (unit 1)
         )
       )
     )
@@ -3208,7 +3268,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 164.465 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8ea6)
-    (property "Reference" "D_F0" (at 166.497 86.4616 90)
+    (property "Reference" "D43" (at 166.497 86.4616 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 166.497 88.773 90)
@@ -3229,9 +3289,9 @@
     (pin "1" (uuid 74cc1fb6-e23e-4cf6-9f76-e1c10fb92b8b))
     (pin "2" (uuid 94a7feca-16be-4f2f-bf22-29accaf624a7))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_F0") (unit 1)
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -3240,7 +3300,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 159.385 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8eb0)
-    (property "Reference" "SwF0" (at 159.385 76.581 0)
+    (property "Reference" "SW43" (at 159.385 76.581 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 159.385 78.8924 0)
@@ -3255,9 +3315,9 @@
     (pin "1" (uuid 9792353c-0daa-43e8-a8c9-d3f197b1e5d9))
     (pin "2" (uuid 3a2d5f09-d24e-4c43-bc67-ae6c20b1ef82))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwF0") (unit 1)
+          (reference "SW43") (unit 1)
         )
       )
     )
@@ -3266,7 +3326,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 46.99 86.995 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8ed2)
-    (property "Reference" "D_E1" (at 49.022 85.8266 90)
+    (property "Reference" "D38" (at 49.022 85.8266 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 49.022 88.138 90)
@@ -3287,9 +3347,9 @@
     (pin "1" (uuid ae5446b8-1091-44f4-b4ec-0f66daa3cc75))
     (pin "2" (uuid 98a75e0a-f02b-4a78-a36d-84f98715540e))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_E1") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -3298,7 +3358,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 41.91 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8edc)
-    (property "Reference" "SwE1" (at 41.91 75.946 0)
+    (property "Reference" "SW38" (at 41.91 75.946 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 41.91 78.2574 0)
@@ -3313,9 +3373,9 @@
     (pin "1" (uuid ac520072-620c-4cfa-b9bd-a281a63f5c8e))
     (pin "2" (uuid 2d52e758-eed7-42c7-93bb-a0fb4b4f3f20))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwE1") (unit 1)
+          (reference "SW38") (unit 1)
         )
       )
     )
@@ -3324,7 +3384,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 186.055 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8f02)
-    (property "Reference" "D_F1" (at 188.087 86.4616 90)
+    (property "Reference" "D44" (at 188.087 86.4616 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 188.087 88.773 90)
@@ -3345,9 +3405,9 @@
     (pin "1" (uuid d73bd75a-8a90-4358-8bb9-8bf0bd5cfd01))
     (pin "2" (uuid 4955c88e-b807-4ed0-b6d5-6ea1079bf3ed))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_F1") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -3356,7 +3416,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 180.975 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cc8f0c)
-    (property "Reference" "SwF1" (at 180.975 76.581 0)
+    (property "Reference" "SW44" (at 180.975 76.581 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 180.975 78.8924 0)
@@ -3371,9 +3431,9 @@
     (pin "1" (uuid 0c31140e-b283-4a92-817e-6f20ed22ff7d))
     (pin "2" (uuid 02bcc166-00f2-43fb-be22-f8853898abc0))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwF1") (unit 1)
+          (reference "SW44") (unit 1)
         )
       )
     )
@@ -3382,7 +3442,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 186.055 108.585 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cf093a)
-    (property "Reference" "D_G6" (at 188.087 107.4166 90)
+    (property "Reference" "D56" (at 188.087 107.4166 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 188.087 109.728 90)
@@ -3403,9 +3463,9 @@
     (pin "1" (uuid 4a932cb0-9e96-458b-9f5a-4d1e5fbaeb7b))
     (pin "2" (uuid 4678abaa-9a89-421d-9554-6084135dcf31))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G6") (unit 1)
+          (reference "D56") (unit 1)
         )
       )
     )
@@ -3414,7 +3474,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 180.975 104.775 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cf0944)
-    (property "Reference" "SwG6" (at 180.975 97.536 0)
+    (property "Reference" "SW56" (at 180.975 97.536 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 180.975 99.8474 0)
@@ -3429,9 +3489,9 @@
     (pin "1" (uuid 9fbc9d84-4a3d-4b63-b1f4-b4dd3ec849e9))
     (pin "2" (uuid abd5b1f8-417b-4e4b-bb91-50def48c6e7b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG6") (unit 1)
+          (reference "SW56") (unit 1)
         )
       )
     )
@@ -3440,7 +3500,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 205.105 108.585 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cf0961)
-    (property "Reference" "D_G7" (at 207.137 107.4166 90)
+    (property "Reference" "D57" (at 207.137 107.4166 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 207.137 109.728 90)
@@ -3461,9 +3521,9 @@
     (pin "1" (uuid 72d6ed73-8d3e-437e-84b2-89005b784042))
     (pin "2" (uuid 7e6bda94-f514-4d1a-bfa0-706ffa7f3689))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G7") (unit 1)
+          (reference "D57") (unit 1)
         )
       )
     )
@@ -3472,7 +3532,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 200.025 104.775 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060cf096b)
-    (property "Reference" "SwG7" (at 200.025 97.536 0)
+    (property "Reference" "SW57" (at 200.025 97.536 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 200.025 99.8474 0)
@@ -3487,9 +3547,9 @@
     (pin "1" (uuid ef6d89e8-baea-4aba-9b87-0c0cc61deae7))
     (pin "2" (uuid 5bd3f15a-7f87-4a76-aa9b-753562cb7685))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG7") (unit 1)
+          (reference "SW57") (unit 1)
         )
       )
     )
@@ -3498,7 +3558,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 67.31 47.625 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e454)
-    (property "Reference" "D_A2" (at 69.342 46.4566 90)
+    (property "Reference" "D15" (at 69.342 46.4566 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 69.342 48.768 90)
@@ -3519,9 +3579,9 @@
     (pin "1" (uuid a5caf9f6-e03e-450e-bccc-1a8c713e9865))
     (pin "2" (uuid 0677ea8d-27ac-4a38-a5c6-9d3125b863f5))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A2") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -3530,7 +3590,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 43.815 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e787)
-    (property "Reference" "SwA2" (at 62.23 36.576 0)
+    (property "Reference" "SW15" (at 62.23 36.576 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 62.23 38.8874 0)
@@ -3545,9 +3605,9 @@
     (pin "1" (uuid f466b51f-af5a-4cf4-bd3c-fabc3b65b6ec))
     (pin "2" (uuid dece22cf-5001-44cd-9ca5-af884a2dd1f9))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA2") (unit 1)
+          (reference "SW15") (unit 1)
         )
       )
     )
@@ -3556,7 +3616,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 205.105 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e7ab)
-    (property "Reference" "D_B2" (at 207.137 47.0916 90)
+    (property "Reference" "D21" (at 207.137 47.0916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 207.137 49.403 90)
@@ -3577,9 +3637,9 @@
     (pin "1" (uuid edb4c443-88e8-4daf-a3be-6178a1971022))
     (pin "2" (uuid 30165f62-3d41-4d42-aa30-73351cc31cbf))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B2") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -3588,7 +3648,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 200.025 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e7b5)
-    (property "Reference" "SwB2" (at 200.025 37.211 0)
+    (property "Reference" "SW21" (at 200.025 37.211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 200.025 39.5224 0)
@@ -3603,9 +3663,9 @@
     (pin "1" (uuid 080b6e12-2ff2-4d50-83f7-4f249bc65a95))
     (pin "2" (uuid c2ab00a0-fb0b-4cb1-8dfa-890ca0b28f04))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB2") (unit 1)
+          (reference "SW21") (unit 1)
         )
       )
     )
@@ -3614,7 +3674,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 67.31 66.675 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e7d2)
-    (property "Reference" "D_C2" (at 69.342 65.5066 90)
+    (property "Reference" "D27" (at 69.342 65.5066 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 69.342 67.818 90)
@@ -3635,9 +3695,9 @@
     (pin "1" (uuid 134bfada-f0b0-4c8e-9e9c-3cd2bf3a1c1f))
     (pin "2" (uuid cc7bfa1c-21d1-4e4e-84d7-c0f60830995e))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_C2") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -3646,7 +3706,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 62.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e7dc)
-    (property "Reference" "SwC2" (at 62.23 55.626 0)
+    (property "Reference" "SW27" (at 62.23 55.626 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 62.23 57.9374 0)
@@ -3661,9 +3721,9 @@
     (pin "1" (uuid f6a3b835-7aa4-40e4-93a1-632743fe5fd1))
     (pin "2" (uuid 6a0fdee0-5e72-45fc-b6dd-fe648508868c))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwC2") (unit 1)
+          (reference "SW27") (unit 1)
         )
       )
     )
@@ -3672,7 +3732,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 205.105 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e7ff)
-    (property "Reference" "D_D2" (at 207.137 66.1416 90)
+    (property "Reference" "D33" (at 207.137 66.1416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 207.137 68.453 90)
@@ -3693,9 +3753,9 @@
     (pin "1" (uuid 4f549efa-ea09-4d45-adb0-cfe9ff84c32b))
     (pin "2" (uuid 24df2e53-910a-42cc-ba7e-ac8c42d55ee7))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_D2") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
@@ -3704,7 +3764,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 200.025 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e809)
-    (property "Reference" "SwD2" (at 200.025 56.261 0)
+    (property "Reference" "SW33" (at 200.025 56.261 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 200.025 58.5724 0)
@@ -3719,9 +3779,9 @@
     (pin "1" (uuid 21314fbe-e00a-490a-95ea-466d0f53f941))
     (pin "2" (uuid e7d1484a-15bb-4bf0-80f8-cb447ab0ef9b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwD2") (unit 1)
+          (reference "SW33") (unit 1)
         )
       )
     )
@@ -3730,7 +3790,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 67.31 86.995 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e828)
-    (property "Reference" "D_E2" (at 69.342 85.8266 90)
+    (property "Reference" "D39" (at 69.342 85.8266 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 69.342 88.138 90)
@@ -3751,9 +3811,9 @@
     (pin "1" (uuid 67f52e3f-657d-48e0-9de2-19bb56698579))
     (pin "2" (uuid 98dbeacd-eda1-4446-87dd-ddc62165f2c4))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_E2") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -3762,7 +3822,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e832)
-    (property "Reference" "SwE2" (at 62.23 75.946 0)
+    (property "Reference" "SW39" (at 62.23 75.946 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 62.23 78.2574 0)
@@ -3777,9 +3837,9 @@
     (pin "1" (uuid 9981b88d-cfa8-47a7-bb7c-4d45d09b92f0))
     (pin "2" (uuid 3e1fd5ca-ddd5-4018-b6fd-290800f19629))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwE2") (unit 1)
+          (reference "SW39") (unit 1)
         )
       )
     )
@@ -3788,7 +3848,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 205.105 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e855)
-    (property "Reference" "D_F2" (at 207.137 86.4616 90)
+    (property "Reference" "D45" (at 207.137 86.4616 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 207.137 88.773 90)
@@ -3809,9 +3869,9 @@
     (pin "1" (uuid 8aa802dc-26d5-4775-b483-19b41c28fd3e))
     (pin "2" (uuid 6c2260eb-bee8-41c1-91ea-999bf990e667))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_F2") (unit 1)
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -3820,7 +3880,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 200.025 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d0e85f)
-    (property "Reference" "SwF2" (at 200.025 76.581 0)
+    (property "Reference" "SW45" (at 200.025 76.581 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 200.025 78.8924 0)
@@ -3835,9 +3895,9 @@
     (pin "1" (uuid 7121bed1-5309-4e64-a00e-2832628aef31))
     (pin "2" (uuid 94b2fe74-b15f-4aa7-83b4-ef7298874c10))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwF2") (unit 1)
+          (reference "SW45") (unit 1)
         )
       )
     )
@@ -3846,7 +3906,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 88.9 47.625 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50262)
-    (property "Reference" "D_A3" (at 90.932 46.4566 90)
+    (property "Reference" "D16" (at 90.932 46.4566 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 90.932 48.768 90)
@@ -3867,9 +3927,9 @@
     (pin "1" (uuid d0969589-facd-430d-a52b-74c4e073ccb0))
     (pin "2" (uuid 1f8faee3-1840-454a-aaef-e80578fa0c3e))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A3") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -3878,7 +3938,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 83.82 43.815 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50721)
-    (property "Reference" "SwA3" (at 83.82 36.576 0)
+    (property "Reference" "SW16" (at 83.82 36.576 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 83.82 38.8874 0)
@@ -3893,9 +3953,9 @@
     (pin "1" (uuid a9d0d8d0-90d7-47b2-a4ac-d669ce9e0fea))
     (pin "2" (uuid a5624d14-534e-4568-b415-af0009b2ac24))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA3") (unit 1)
+          (reference "SW16") (unit 1)
         )
       )
     )
@@ -3904,7 +3964,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 226.695 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50745)
-    (property "Reference" "D_B3" (at 228.727 47.0916 90)
+    (property "Reference" "D22" (at 228.727 47.0916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 228.727 49.403 90)
@@ -3925,9 +3985,9 @@
     (pin "1" (uuid 296a0643-1c2a-4076-8732-af3be0ccc2ca))
     (pin "2" (uuid 58faf8d3-0f90-4381-971c-278302f06165))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B3") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -3936,7 +3996,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 221.615 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d5074f)
-    (property "Reference" "SwB3" (at 221.615 37.211 0)
+    (property "Reference" "SW22" (at 221.615 37.211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 221.615 39.5224 0)
@@ -3951,9 +4011,9 @@
     (pin "1" (uuid 48d93d5a-30ab-467b-b9c9-18d5abc37276))
     (pin "2" (uuid 3dd25a03-ab65-45b2-9460-8aa6bc691be5))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB3") (unit 1)
+          (reference "SW22") (unit 1)
         )
       )
     )
@@ -3962,7 +4022,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 88.9 66.675 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d5076c)
-    (property "Reference" "D_C3" (at 90.932 65.5066 90)
+    (property "Reference" "D28" (at 90.932 65.5066 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 90.932 67.818 90)
@@ -3983,9 +4043,9 @@
     (pin "1" (uuid d071ac9b-4090-4ecf-81e4-cedb87e96ef7))
     (pin "2" (uuid 4453b4b4-6975-422f-831a-b6a6b5e9c033))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_C3") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -3994,7 +4054,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 83.82 62.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50776)
-    (property "Reference" "SwC3" (at 83.82 55.626 0)
+    (property "Reference" "SW28" (at 83.82 55.626 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 83.82 57.9374 0)
@@ -4009,9 +4069,9 @@
     (pin "1" (uuid 94102ff7-de7c-415b-a1d0-291d8e746d24))
     (pin "2" (uuid afd13c3d-40e9-4f3f-80ae-02394e22bc77))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwC3") (unit 1)
+          (reference "SW28") (unit 1)
         )
       )
     )
@@ -4020,7 +4080,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 226.695 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50799)
-    (property "Reference" "D_D3" (at 228.727 66.1416 90)
+    (property "Reference" "D34" (at 228.727 66.1416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 228.727 68.453 90)
@@ -4041,9 +4101,9 @@
     (pin "1" (uuid e51724cf-48c9-47f2-ab24-c07e49a056f7))
     (pin "2" (uuid 50306dfb-73d8-4007-9903-8964dd43981b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_D3") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -4052,7 +4112,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 221.615 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d507a3)
-    (property "Reference" "SwD3" (at 221.615 56.261 0)
+    (property "Reference" "SW34" (at 221.615 56.261 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 221.615 58.5724 0)
@@ -4067,9 +4127,9 @@
     (pin "1" (uuid 909af301-8cfe-4457-80b0-d3417bb64680))
     (pin "2" (uuid b1c4f5e7-18da-41ce-9dd1-cd6e740715cd))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwD3") (unit 1)
+          (reference "SW34") (unit 1)
         )
       )
     )
@@ -4078,7 +4138,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 88.9 86.995 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d507c2)
-    (property "Reference" "D_E3" (at 90.932 85.8266 90)
+    (property "Reference" "D40" (at 90.932 85.8266 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 90.932 88.138 90)
@@ -4099,9 +4159,9 @@
     (pin "1" (uuid 6513eebf-655f-4e9e-ae5f-d9d031f8ed96))
     (pin "2" (uuid ceb8d1d7-5351-4c45-aa55-aae2810c6b65))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_E3") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -4110,7 +4170,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 83.82 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d507cc)
-    (property "Reference" "SwE3" (at 83.82 75.946 0)
+    (property "Reference" "SW40" (at 83.82 75.946 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 83.82 78.2574 0)
@@ -4125,9 +4185,9 @@
     (pin "1" (uuid d4128e2b-34da-442d-9081-09ef1735357b))
     (pin "2" (uuid 2cb653ae-a486-4999-8f63-2cc2ca83bff5))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwE3") (unit 1)
+          (reference "SW40") (unit 1)
         )
       )
     )
@@ -4136,7 +4196,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 226.695 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d507ef)
-    (property "Reference" "D_F3" (at 228.727 86.4616 90)
+    (property "Reference" "D46" (at 228.727 86.4616 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 228.727 88.773 90)
@@ -4157,9 +4217,9 @@
     (pin "1" (uuid e222c973-3b3d-4f81-848e-de02796403c7))
     (pin "2" (uuid aa6d25f1-daa2-44c0-a6f6-5fc863126e59))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_F3") (unit 1)
+          (reference "D46") (unit 1)
         )
       )
     )
@@ -4168,7 +4228,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 221.615 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d507f9)
-    (property "Reference" "SwF3" (at 221.615 76.581 0)
+    (property "Reference" "SW46" (at 221.615 76.581 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 221.615 78.8924 0)
@@ -4183,9 +4243,9 @@
     (pin "1" (uuid aa549168-ea89-4698-b36c-30f3b1586ce0))
     (pin "2" (uuid 78089f98-8163-4564-89d2-ca575686edf5))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwF3") (unit 1)
+          (reference "SW46") (unit 1)
         )
       )
     )
@@ -4194,7 +4254,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 109.855 47.625 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50818)
-    (property "Reference" "D_A4" (at 111.887 46.4566 90)
+    (property "Reference" "D17" (at 111.887 46.4566 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 111.887 48.768 90)
@@ -4215,9 +4275,9 @@
     (pin "1" (uuid 862c51f2-7c1d-41e7-83e6-c3717972ff97))
     (pin "2" (uuid fecde5fd-897c-4eae-b100-8fd643dead15))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A4") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -4226,7 +4286,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.775 43.815 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50823)
-    (property "Reference" "SwA4" (at 104.775 36.576 0)
+    (property "Reference" "SW17" (at 104.775 36.576 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 104.775 38.8874 0)
@@ -4241,9 +4301,9 @@
     (pin "1" (uuid 32ac4690-1a4f-4370-9ac0-dfa237ec7dd1))
     (pin "2" (uuid a3b83521-1599-4b86-a0dd-3e6c958649d3))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA4") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
     )
@@ -4252,7 +4312,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 246.38 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50847)
-    (property "Reference" "D_B4" (at 248.412 47.0916 90)
+    (property "Reference" "D23" (at 248.412 47.0916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 248.412 49.403 90)
@@ -4273,9 +4333,9 @@
     (pin "1" (uuid bc963c53-639d-4010-b5f2-240b3ece2447))
     (pin "2" (uuid 1d63ba5a-671a-4ee7-a188-83c2a30d489f))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B4") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -4284,7 +4344,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 241.3 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50851)
-    (property "Reference" "SwB4" (at 241.3 37.211 0)
+    (property "Reference" "SW23" (at 241.3 37.211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 241.3 39.5224 0)
@@ -4299,9 +4359,9 @@
     (pin "1" (uuid 31e9655c-ff8b-43df-a129-5103fca21812))
     (pin "2" (uuid d4ac16f7-355b-4ac1-988b-ef23459f3fb6))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB4") (unit 1)
+          (reference "SW23") (unit 1)
         )
       )
     )
@@ -4310,7 +4370,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 109.855 66.675 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d5086e)
-    (property "Reference" "D_C4" (at 111.887 65.5066 90)
+    (property "Reference" "D29" (at 111.887 65.5066 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 111.887 67.818 90)
@@ -4331,9 +4391,9 @@
     (pin "1" (uuid 1ac507d6-1473-4dee-88e8-4ede4e009385))
     (pin "2" (uuid 6281ebbb-35e7-4c8d-ad07-5d6ab74e0763))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_C4") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -4342,7 +4402,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.775 62.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d50878)
-    (property "Reference" "SwC4" (at 104.775 55.626 0)
+    (property "Reference" "SW29" (at 104.775 55.626 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 104.775 57.9374 0)
@@ -4357,9 +4417,9 @@
     (pin "1" (uuid 01d5420c-1969-4148-a4ff-cb4af3b8426e))
     (pin "2" (uuid 94328f8c-f29c-474b-915d-5de760e02177))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwC4") (unit 1)
+          (reference "SW29") (unit 1)
         )
       )
     )
@@ -4368,7 +4428,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 246.38 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d5089b)
-    (property "Reference" "D_D4" (at 248.412 66.1416 90)
+    (property "Reference" "D35" (at 248.412 66.1416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 248.412 68.453 90)
@@ -4389,9 +4449,9 @@
     (pin "1" (uuid 3c12b9e7-97c8-4778-8ff9-1dcd3ffbfa77))
     (pin "2" (uuid d68bac21-1840-48df-8a90-042e63ea866e))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_D4") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -4400,7 +4460,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 241.3 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d508a5)
-    (property "Reference" "SwD4" (at 241.3 56.261 0)
+    (property "Reference" "SW35" (at 241.3 56.261 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 241.3 58.5724 0)
@@ -4415,9 +4475,9 @@
     (pin "1" (uuid 5f7d5f52-567b-4f40-aee2-ea5bf6b2be0c))
     (pin "2" (uuid 70582fd4-fcea-47ea-85b2-fe4c9825cf79))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwD4") (unit 1)
+          (reference "SW35") (unit 1)
         )
       )
     )
@@ -4426,7 +4486,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 109.855 86.995 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d508c4)
-    (property "Reference" "D_E4" (at 111.887 85.8266 90)
+    (property "Reference" "D41" (at 111.887 85.8266 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 111.887 88.138 90)
@@ -4447,9 +4507,9 @@
     (pin "1" (uuid c18a04e1-2742-4b32-8568-93c1aed954d4))
     (pin "2" (uuid 1020ad67-bbd8-437a-9a2e-479d9686db63))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_E4") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -4458,7 +4518,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.775 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d508ce)
-    (property "Reference" "SwE4" (at 104.775 75.946 0)
+    (property "Reference" "SW41" (at 104.775 75.946 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 104.775 78.2574 0)
@@ -4473,9 +4533,9 @@
     (pin "1" (uuid 98e85eeb-6efa-4e41-bb87-9aec27e50a64))
     (pin "2" (uuid 2c3c7953-603d-4b95-b24a-60ee04407d91))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwE4") (unit 1)
+          (reference "SW41") (unit 1)
         )
       )
     )
@@ -4484,7 +4544,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 246.38 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d508f1)
-    (property "Reference" "D_F4" (at 248.412 86.4616 90)
+    (property "Reference" "D47" (at 248.412 86.4616 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 248.412 88.773 90)
@@ -4505,9 +4565,9 @@
     (pin "1" (uuid 2528ff7d-276b-468c-a841-332afa981cee))
     (pin "2" (uuid 0df071ca-503c-47a8-aa48-54406ff64e04))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_F4") (unit 1)
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -4516,7 +4576,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 241.3 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060d508fb)
-    (property "Reference" "SwF4" (at 241.3 76.581 0)
+    (property "Reference" "SW47" (at 241.3 76.581 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 241.3 78.8924 0)
@@ -4531,9 +4591,9 @@
     (pin "1" (uuid 1ccc5f53-065b-44e2-aaf9-75fe664f1207))
     (pin "2" (uuid eda8dd6b-776b-4c37-9caa-384399f3bf1f))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwF4") (unit 1)
+          (reference "SW47") (unit 1)
         )
       )
     )
@@ -4542,7 +4602,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 130.175 47.625 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e10bf1)
-    (property "Reference" "D_A5" (at 132.207 46.4566 90)
+    (property "Reference" "D18" (at 132.207 46.4566 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 132.207 48.768 90)
@@ -4563,9 +4623,9 @@
     (pin "1" (uuid ce18636a-1874-405b-8457-37d1d6c98645))
     (pin "2" (uuid 78afe5d1-34a5-45ec-be11-c97195712020))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A5") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -4574,7 +4634,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 125.095 43.815 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e113c8)
-    (property "Reference" "SwA5" (at 125.095 36.576 0)
+    (property "Reference" "SW18" (at 125.095 36.576 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 125.095 38.8874 0)
@@ -4589,9 +4649,9 @@
     (pin "1" (uuid 72900d6b-1728-4f1d-af55-b7dbba81ac5d))
     (pin "2" (uuid 5814e87b-4abe-4250-b911-ebfd95a78220))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA5") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
     )
@@ -4600,7 +4660,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 270.51 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e113ea)
-    (property "Reference" "D_B5" (at 272.542 47.0916 90)
+    (property "Reference" "D24" (at 272.542 47.0916 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 272.542 49.403 90)
@@ -4621,9 +4681,9 @@
     (pin "1" (uuid c6cc19b7-5d2d-4124-8a98-f910fc2224b9))
     (pin "2" (uuid 023a35f1-1853-40b9-be5b-91c845113536))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B5") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -4632,7 +4692,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 265.43 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e113f4)
-    (property "Reference" "SwB5" (at 265.43 37.211 0)
+    (property "Reference" "SW24" (at 265.43 37.211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 265.43 39.5224 0)
@@ -4647,9 +4707,9 @@
     (pin "1" (uuid f0335b22-785c-4c5a-bd85-7043e1e756d5))
     (pin "2" (uuid bc4ed441-0271-4a40-bdf0-6a2256276c9c))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB5") (unit 1)
+          (reference "SW24") (unit 1)
         )
       )
     )
@@ -4658,7 +4718,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 130.175 66.675 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e1140f)
-    (property "Reference" "D_C5" (at 132.207 65.5066 90)
+    (property "Reference" "D30" (at 132.207 65.5066 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 132.207 67.818 90)
@@ -4679,9 +4739,9 @@
     (pin "1" (uuid c827b999-359f-4d97-a5f5-6622721bb5c9))
     (pin "2" (uuid 5f1e3f25-750e-4f17-b215-6378fe62f2ab))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_C5") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -4690,7 +4750,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 125.095 62.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e11419)
-    (property "Reference" "SwC5" (at 125.095 55.626 0)
+    (property "Reference" "SW30" (at 125.095 55.626 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 125.095 57.9374 0)
@@ -4705,9 +4765,9 @@
     (pin "1" (uuid d4f4dd60-7f1f-403d-a8be-9d541794b9e6))
     (pin "2" (uuid 6afcf39f-db4f-4bea-8975-fb54e32dd52f))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwC5") (unit 1)
+          (reference "SW30") (unit 1)
         )
       )
     )
@@ -4716,7 +4776,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 270.51 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e1143a)
-    (property "Reference" "D_D5" (at 272.542 66.1416 90)
+    (property "Reference" "D36" (at 272.542 66.1416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 272.542 68.453 90)
@@ -4737,9 +4797,9 @@
     (pin "1" (uuid 06b0de7a-8452-47e4-8156-099c9b3d0d4a))
     (pin "2" (uuid d204374d-427d-4184-8cac-34c3c45ae776))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_D5") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -4748,7 +4808,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 265.43 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e11444)
-    (property "Reference" "SwD5" (at 265.43 56.261 0)
+    (property "Reference" "SW36" (at 265.43 56.261 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 265.43 58.5724 0)
@@ -4763,9 +4823,9 @@
     (pin "1" (uuid 5073e2aa-8704-462c-b9ec-5d0a20454258))
     (pin "2" (uuid c40555a2-76f6-47f6-8565-ddb5b88a8a7f))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwD5") (unit 1)
+          (reference "SW36") (unit 1)
         )
       )
     )
@@ -4774,7 +4834,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 130.175 86.995 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e11461)
-    (property "Reference" "D_E5" (at 132.207 85.8266 90)
+    (property "Reference" "D42" (at 132.207 85.8266 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 132.207 88.138 90)
@@ -4795,9 +4855,9 @@
     (pin "1" (uuid 7114252f-4490-4dce-982e-4accb431f84f))
     (pin "2" (uuid 1cb90ce4-cf2a-4f56-afc5-1a491c09cd7f))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_E5") (unit 1)
+          (reference "D42") (unit 1)
         )
       )
     )
@@ -4806,7 +4866,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 125.095 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e1146b)
-    (property "Reference" "SwE5" (at 125.095 75.946 0)
+    (property "Reference" "SW42" (at 125.095 75.946 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 125.095 78.2574 0)
@@ -4821,9 +4881,9 @@
     (pin "1" (uuid 46adbde6-4156-414c-a677-91a5d52c06f0))
     (pin "2" (uuid 96f4b525-44cb-47ae-85ba-1452b6ebe244))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwE5") (unit 1)
+          (reference "SW42") (unit 1)
         )
       )
     )
@@ -4832,7 +4892,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 270.51 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e1148c)
-    (property "Reference" "D_F5" (at 272.542 86.4616 90)
+    (property "Reference" "D48" (at 272.542 86.4616 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 272.542 88.773 90)
@@ -4853,9 +4913,9 @@
     (pin "1" (uuid 23a565f8-c512-42e3-b944-2b21cc7ef5bf))
     (pin "2" (uuid fa924129-6767-4560-b59b-3a02d5fe5c1c))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_F5") (unit 1)
+          (reference "D48") (unit 1)
         )
       )
     )
@@ -4864,7 +4924,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 265.43 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e11496)
-    (property "Reference" "SwF5" (at 265.43 76.581 0)
+    (property "Reference" "SW48" (at 265.43 76.581 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 265.43 78.8924 0)
@@ -4879,9 +4939,9 @@
     (pin "1" (uuid fb789d35-2164-4089-ab99-307afe88bcea))
     (pin "2" (uuid 45047bb9-87a7-4ccc-955e-f309ddb6bb4f))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwF5") (unit 1)
+          (reference "SW48") (unit 1)
         )
       )
     )
@@ -4890,7 +4950,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 88.9 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e7ad1b)
-    (property "Reference" "D_G1" (at 90.932 106.7816 90)
+    (property "Reference" "D52" (at 90.932 106.7816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 90.932 109.093 90)
@@ -4911,9 +4971,9 @@
     (pin "1" (uuid 53994bda-c554-4789-9b94-284e4b345bd8))
     (pin "2" (uuid 0c91a4f1-0f97-4ceb-94f7-eff09ca0fe2a))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G1") (unit 1)
+          (reference "D52") (unit 1)
         )
       )
     )
@@ -4922,7 +4982,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 83.82 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e7b4f1)
-    (property "Reference" "SwG1" (at 83.82 96.901 0)
+    (property "Reference" "SW52" (at 83.82 96.901 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 83.82 99.2124 0)
@@ -4937,9 +4997,9 @@
     (pin "1" (uuid 4ecb4ff8-87b3-478c-ac11-8001cd40ddca))
     (pin "2" (uuid 6a1be517-10cc-40fb-a87d-dae4e7ba7c55))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG1") (unit 1)
+          (reference "SW52") (unit 1)
         )
       )
     )
@@ -4948,7 +5008,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 109.855 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e7b514)
-    (property "Reference" "D_G2" (at 111.887 106.7816 90)
+    (property "Reference" "D53" (at 111.887 106.7816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 111.887 109.093 90)
@@ -4969,9 +5029,9 @@
     (pin "1" (uuid dbb66177-2b86-40dd-81a4-093e957f070b))
     (pin "2" (uuid 140b8cf2-967b-4253-b9ee-aa79a7f32ab3))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G2") (unit 1)
+          (reference "D53") (unit 1)
         )
       )
     )
@@ -4980,7 +5040,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.775 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000060e7b51e)
-    (property "Reference" "SwG2" (at 104.775 96.901 0)
+    (property "Reference" "SW53" (at 104.775 96.901 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 104.775 99.2124 0)
@@ -4995,9 +5055,9 @@
     (pin "1" (uuid 482745db-df58-49f7-8fa7-e685d2aac961))
     (pin "2" (uuid c9a5b797-ba28-42ce-9322-f17ec279f848))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG2") (unit 1)
+          (reference "SW53") (unit 1)
         )
       )
     )
@@ -5006,7 +5066,7 @@
   (symbol (lib_id "power:+3V3") (at 40.005 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 02068f82-1355-4ba5-b13c-98b589a866d5)
-    (property "Reference" "#PWR012" (at 40.005 180.34 0)
+    (property "Reference" "#PWR016" (at 40.005 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 40.005 171.45 0)
@@ -5020,9 +5080,9 @@
     )
     (pin "1" (uuid 5be49ba9-153f-4619-bef0-f08b1390e61b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -5031,7 +5091,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 125.095 27.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 05242a97-2e22-47c7-ade0-d759f94a1cf0)
-    (property "Reference" "SwA11" (at 125.095 20.066 0)
+    (property "Reference" "SW6" (at 125.095 20.066 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 125.095 22.3774 0)
@@ -5046,9 +5106,9 @@
     (pin "1" (uuid 44293b7c-c2b1-4ea2-9b27-5c9c1840d433))
     (pin "2" (uuid fe058f49-cdaa-4909-9946-eeacfe7f85b9))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA11") (unit 1)
+          (reference "SW6") (unit 1)
         )
       )
     )
@@ -5057,7 +5117,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 270.51 31.75 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 065ee5be-2f06-4e1e-b7c5-9339fe04e7fb)
-    (property "Reference" "D_B11" (at 272.542 30.5816 90)
+    (property "Reference" "D12" (at 272.542 30.5816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 272.542 32.893 90)
@@ -5078,9 +5138,9 @@
     (pin "1" (uuid 459b9e15-7a62-4109-a481-e876746ba81e))
     (pin "2" (uuid 30a0ce10-3cb8-45e2-9ac0-8fe4b3aa5489))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B11") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -5089,7 +5149,7 @@
   (symbol (lib_id "PCM_marbastlib-promicroish:Seeeduino_Xiao_nRF52840") (at 49.53 148.59 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07ee5cca-3e6f-4d74-af2c-8b6cd369e671)
-    (property "Reference" "U2" (at 59.3441 162.56 0)
+    (property "Reference" "U1" (at 59.3441 162.56 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Seeeduino Xiao nRF52840" (at 59.3441 165.1 0)
@@ -5124,9 +5184,9 @@
     (pin "13" (uuid adb19deb-08d6-4f94-8f16-156cb392e21e))
     (pin "1" (uuid ed59f1ab-0524-460c-8524-e05cfff97b9b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "U2") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -5135,7 +5195,7 @@
   (symbol (lib_id "power:GND") (at 124.46 182.245 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09d14e4d-4a14-4abe-a37a-2d0c6b0d926a)
-    (property "Reference" "#PWR07" (at 124.46 188.595 0)
+    (property "Reference" "#PWR018" (at 124.46 188.595 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 124.587 186.6392 0)
@@ -5149,9 +5209,9 @@
     )
     (pin "1" (uuid 91015f0a-e611-432b-bdcf-d5a59e8ddd4f))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -5160,7 +5220,7 @@
   (symbol (lib_id "power:+3V3") (at 201.295 133.985 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e13740f-1972-41bc-a879-97dc4e696455)
-    (property "Reference" "#PWR014" (at 201.295 137.795 0)
+    (property "Reference" "#PWR06" (at 201.295 137.795 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 203.2 130.175 0)
@@ -5174,9 +5234,9 @@
     )
     (pin "1" (uuid 64901512-1cf9-4947-9297-402bd3de108a))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -5185,7 +5245,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 267.97 141.605 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 11a8a00d-b08d-4e1b-aab3-b60d688e3438)
-    (property "Reference" "H2" (at 270.51 140.335 0)
+    (property "Reference" "H1" (at 270.51 140.335 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 266.065 137.16 0)
@@ -5198,9 +5258,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "H2") (unit 1)
+          (reference "H1") (unit 1)
         )
       )
     )
@@ -5209,7 +5269,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 267.97 159.385 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1219bcf3-1dfd-4d28-997f-cee403a5bf46)
-    (property "Reference" "H6" (at 270.51 159.385 0)
+    (property "Reference" "H7" (at 270.51 159.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 270.51 160.655 0)
@@ -5222,9 +5282,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "H6") (unit 1)
+          (reference "H7") (unit 1)
         )
       )
     )
@@ -5233,7 +5293,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 88.9 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 14e75d59-713f-44d7-b5be-e0ae4cc1c1ea)
-    (property "Reference" "D_A9" (at 90.932 29.9466 90)
+    (property "Reference" "D4" (at 90.932 29.9466 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 90.932 32.258 90)
@@ -5254,9 +5314,9 @@
     (pin "1" (uuid e2be7400-dc56-4426-9ef7-bf338a64a34d))
     (pin "2" (uuid 5fa6ba09-a0fb-412a-a8a2-a916cc3f2cfa))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A9") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -5280,7 +5340,7 @@
     (pin "1" (uuid e2727556-c5d1-4597-85af-6ace6b6ee91c))
     (pin "2" (uuid ae1a9f68-f3d5-450e-b4cb-e2f789e899c0))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "C1") (unit 1)
         )
@@ -5291,7 +5351,7 @@
   (symbol (lib_id "power:GND") (at 93.98 135.255 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a62edfa-96eb-4e16-bcd3-de98b4bdd3b9)
-    (property "Reference" "#PWR09" (at 93.98 141.605 0)
+    (property "Reference" "#PWR08" (at 93.98 141.605 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 94.107 139.6492 0)
@@ -5305,9 +5365,41 @@
     )
     (pin "1" (uuid 9b63083f-9e74-444d-8e94-63ef0ec069e7))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR08") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148W") (at 27.305 107.95 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 1a9a09ec-db61-413f-a01e-6f0d5d802d47)
+    (property "Reference" "D49" (at 29.337 106.7816 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "~" (at 29.337 109.093 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 31.75 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf" (at 27.305 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 27.305 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 27.305 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0d27383b-6245-4b2b-ab24-9f4174e07d3d))
+    (pin "2" (uuid d09aaad6-9c24-4e04-8e6b-950f0514e3de))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "D49") (unit 1)
         )
       )
     )
@@ -5316,7 +5408,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 46.99 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1fc2d393-fd2d-4d13-b991-dc501b0ecba0)
-    (property "Reference" "D_A7" (at 49.022 29.9466 90)
+    (property "Reference" "D2" (at 49.022 29.9466 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 49.022 32.258 90)
@@ -5337,9 +5429,9 @@
     (pin "1" (uuid 62d0ce03-1256-49fe-a00b-d09f777a4db4))
     (pin "2" (uuid 1eab14cd-6fd2-47f4-9790-c8d962f70d52))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A7") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -5364,7 +5456,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "#SYM1") (unit 1)
         )
@@ -5375,7 +5467,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 67.31 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2623d6cf-f221-488b-8577-990bdece26e9)
-    (property "Reference" "D_G0" (at 69.342 106.7816 90)
+    (property "Reference" "D51" (at 69.342 106.7816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 69.342 109.093 90)
@@ -5396,9 +5488,9 @@
     (pin "1" (uuid 74902a4c-3d2e-4cd2-be89-cd4d47f9bc99))
     (pin "2" (uuid e8885089-96ba-4731-a75f-c51ec6dc2615))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G0") (unit 1)
+          (reference "D51") (unit 1)
         )
       )
     )
@@ -5420,7 +5512,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "H4") (unit 1)
         )
@@ -5431,7 +5523,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 241.3 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b92d948-a9ac-4cc4-a9e0-21ae132fc6ce)
-    (property "Reference" "SwB10" (at 241.3 20.701 0)
+    (property "Reference" "SW11" (at 241.3 20.701 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 241.3 23.0124 0)
@@ -5446,9 +5538,41 @@
     (pin "1" (uuid 24ca3b27-fe27-48b3-8556-75efa075e96d))
     (pin "2" (uuid d6e2ddd8-5b1a-4593-8edf-0a2ee41868bf))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB10") (unit 1)
+          (reference "SW11") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148W") (at 48.895 107.95 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2ba6561f-2134-4b8f-b837-82bc0d93bf75)
+    (property "Reference" "D50" (at 50.927 106.7816 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "~" (at 50.927 109.093 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 53.34 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf" (at 48.895 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 48.895 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 48.895 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 746a4c0a-cf39-47ba-8ecc-2c0c561550ac))
+    (pin "2" (uuid 06aae05f-9eaa-450d-98b4-97e76798102c))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "D50") (unit 1)
         )
       )
     )
@@ -5457,7 +5581,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 22.225 27.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2caad45a-be31-41a8-809b-1bdba095b946)
-    (property "Reference" "SwA6" (at 22.225 20.066 0)
+    (property "Reference" "SW1" (at 22.225 20.066 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 22.225 22.3774 0)
@@ -5472,9 +5596,9 @@
     (pin "1" (uuid 4c6778c5-74b3-4ea6-87fc-9fba34c7656d))
     (pin "2" (uuid a971ea52-9ab1-41f2-939e-84e8d46b9b1b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA6") (unit 1)
+          (reference "SW1") (unit 1)
         )
       )
     )
@@ -5483,7 +5607,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 27.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e041487-ced9-48d0-97d6-84c7e506152e)
-    (property "Reference" "SwA8" (at 62.23 20.066 0)
+    (property "Reference" "SW3" (at 62.23 20.066 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 62.23 22.3774 0)
@@ -5498,9 +5622,9 @@
     (pin "1" (uuid a59fcb89-f97d-4f1b-9aca-71ba21c0d4a9))
     (pin "2" (uuid 31ec6b45-4dd7-4cfa-b59f-bdf5c4c1bda4))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA8") (unit 1)
+          (reference "SW3") (unit 1)
         )
       )
     )
@@ -5509,7 +5633,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 109.855 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 31bdde37-c460-4423-936d-7b14bcecb260)
-    (property "Reference" "D_A10" (at 111.887 29.9466 90)
+    (property "Reference" "D5" (at 111.887 29.9466 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 111.887 32.258 90)
@@ -5530,9 +5654,9 @@
     (pin "1" (uuid a30c96dc-4051-445d-8ffd-b21b58b12d78))
     (pin "2" (uuid 740da380-5791-452a-acb8-d0d82e303bdf))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A10") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -5541,7 +5665,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 67.31 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 35e2e9f9-1ec6-4aeb-91fd-ae4d67d35c49)
-    (property "Reference" "D_A8" (at 69.342 29.9466 90)
+    (property "Reference" "D3" (at 69.342 29.9466 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 69.342 32.258 90)
@@ -5562,9 +5686,9 @@
     (pin "1" (uuid 5d06c83d-8ef5-4d7f-897f-8181c96f4d3f))
     (pin "2" (uuid 1a435a12-9420-45ec-965d-b48d9f08afb8))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A8") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -5573,7 +5697,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 275.59 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3be271cf-6948-4016-b4e6-07564f362e69)
-    (property "Reference" "H7" (at 278.13 153.67 0)
+    (property "Reference" "H6" (at 278.13 153.67 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 278.13 154.94 0)
@@ -5586,9 +5710,41 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "H7") (unit 1)
+          (reference "H6") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148W") (at 270.51 108.585 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 3be7969c-c39f-4c59-bbf4-070e32e13ba4)
+    (property "Reference" "D60" (at 272.542 107.4166 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "~" (at 272.542 109.728 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 274.955 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf" (at 270.51 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 270.51 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 270.51 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b20c409b-72fa-4b11-8ea6-6d4a370a81c2))
+    (pin "2" (uuid 30cf59c4-19f2-4a2c-a168-17ec9b65bb9e))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "D60") (unit 1)
         )
       )
     )
@@ -5610,7 +5766,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "H5") (unit 1)
         )
@@ -5621,7 +5777,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 180.975 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 45709c42-fbfa-459f-9668-2f3d0a9d8a42)
-    (property "Reference" "SwB7" (at 180.975 20.701 0)
+    (property "Reference" "SW8" (at 180.975 20.701 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 180.975 23.0124 0)
@@ -5636,9 +5792,9 @@
     (pin "1" (uuid 83226782-be4d-4741-a534-84e0a56b6564))
     (pin "2" (uuid f2a971f6-d6da-44b9-a400-77123558fbf9))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB7") (unit 1)
+          (reference "SW8") (unit 1)
         )
       )
     )
@@ -5647,7 +5803,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 275.59 141.605 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 472418ed-0244-4bcc-b821-f913e7e00940)
-    (property "Reference" "H3" (at 278.13 141.605 0)
+    (property "Reference" "H2" (at 278.13 141.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 278.13 142.875 0)
@@ -5660,9 +5816,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "H3") (unit 1)
+          (reference "H2") (unit 1)
         )
       )
     )
@@ -5671,7 +5827,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 130.175 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 52136f02-0aaf-45f9-9ef1-d4fe12a49d82)
-    (property "Reference" "D_A11" (at 132.207 29.9466 90)
+    (property "Reference" "D6" (at 132.207 29.9466 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 132.207 32.258 90)
@@ -5692,9 +5848,9 @@
     (pin "1" (uuid 8f1e5129-ed19-4ef7-ad56-ac70b9310fc0))
     (pin "2" (uuid 650a9f7a-e411-4cf1-8e55-bc0cdb0b8907))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A11") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -5703,7 +5859,7 @@
   (symbol (lib_id "Interface_Expansion:PCA9555PW") (at 124.46 154.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a10aaf6-20b2-428c-bf19-f4cbdc7c3fee)
-    (property "Reference" "U1" (at 126.6541 126.365 0)
+    (property "Reference" "U2" (at 126.6541 126.365 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PCA9555PW" (at 126.6541 128.905 0)
@@ -5740,9 +5896,9 @@
     (pin "8" (uuid 9b9c6b9f-e126-49f1-a103-9f3a03d07f87))
     (pin "13" (uuid 506a1da9-ba19-47fd-b3aa-63689ac24e2c))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "U1") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -5751,7 +5907,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 83.82 27.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c4118cd-3970-408f-aab7-03d7a3ab3791)
-    (property "Reference" "SwA9" (at 83.82 20.066 0)
+    (property "Reference" "SW4" (at 83.82 20.066 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 83.82 22.3774 0)
@@ -5766,9 +5922,9 @@
     (pin "1" (uuid af4e97dd-9288-4d56-9e4e-f726e1056946))
     (pin "2" (uuid be6450a6-49cb-4061-bdc9-6c35c9c94fe7))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA9") (unit 1)
+          (reference "SW4") (unit 1)
         )
       )
     )
@@ -5791,7 +5947,7 @@
     )
     (pin "1" (uuid 6c07bd24-223a-4f41-aea0-bf3c3aed03ea))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "#FLG01") (unit 1)
         )
@@ -5817,7 +5973,7 @@
     (pin "2" (uuid 9fd6d9a2-bb42-4273-98f9-35734a99deb6))
     (pin "1" (uuid e81d1a85-bd8d-4578-b120-394dc0f49f33))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "R1") (unit 1)
         )
@@ -5828,7 +5984,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 221.615 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62c28747-6c03-44b8-b8ae-aa29791a3067)
-    (property "Reference" "SwB9" (at 221.615 20.701 0)
+    (property "Reference" "SW10" (at 221.615 20.701 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 221.615 23.0124 0)
@@ -5843,9 +5999,9 @@
     (pin "1" (uuid b84ba705-746c-4025-b198-8599c5de1f16))
     (pin "2" (uuid 76917efe-52ae-4ca7-89e2-1106ab4f31b9))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB9") (unit 1)
+          (reference "SW10") (unit 1)
         )
       )
     )
@@ -5854,7 +6010,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 159.385 104.775 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62d76403-e4f7-42a9-bd44-22a0e03a7fc1)
-    (property "Reference" "SwG4" (at 159.385 97.536 0)
+    (property "Reference" "SW55" (at 159.385 97.536 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 159.385 99.8474 0)
@@ -5869,9 +6025,9 @@
     (pin "1" (uuid 093a9ff5-ef7a-455c-859a-d2e50ed1f693))
     (pin "2" (uuid f02cbcc7-7c79-4c46-a462-5c6d2161b046))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG4") (unit 1)
+          (reference "SW55") (unit 1)
         )
       )
     )
@@ -5880,7 +6036,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66a7c890-ac40-4f36-85c1-502128bd5c2d)
-    (property "Reference" "SwG0" (at 62.23 96.901 0)
+    (property "Reference" "SW51" (at 62.23 96.901 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 62.23 99.2124 0)
@@ -5895,9 +6051,9 @@
     (pin "1" (uuid d0b2ef87-fb55-49de-8104-c83c37eb45ce))
     (pin "2" (uuid 73772adc-97ef-4c2a-96e3-7debb2e7ad38))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG0") (unit 1)
+          (reference "SW51") (unit 1)
         )
       )
     )
@@ -5906,7 +6062,7 @@
   (symbol (lib_id "power:GND") (at 34.29 154.94 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 670e73f8-afc5-496d-ae1a-cc816b1b4ed1)
-    (property "Reference" "#PWR05" (at 27.94 154.94 0)
+    (property "Reference" "#PWR014" (at 27.94 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 31.0388 155.067 90)
@@ -5920,9 +6076,35 @@
     )
     (pin "1" (uuid dd39cbef-403a-4de6-a9c1-d2baece9c84b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR014") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Switch:SW_Push") (at 43.815 104.14 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 6969d3ee-5f48-4893-86f6-deb8a63844a9)
+    (property "Reference" "SW50" (at 43.815 96.901 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_Push" (at 43.815 99.2124 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 43.815 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 43.815 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 992f8271-3f90-408a-9349-6aeec5ed00cc))
+    (pin "2" (uuid 568f4856-6931-4637-9c82-833882e70a61))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "SW50") (unit 1)
         )
       )
     )
@@ -5931,7 +6113,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 164.465 31.75 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69d35e14-6c84-434d-be54-bf35cf787de7)
-    (property "Reference" "D_B6" (at 166.497 30.5816 90)
+    (property "Reference" "D7" (at 166.497 30.5816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 166.497 32.893 90)
@@ -5952,9 +6134,9 @@
     (pin "1" (uuid a38ef2e0-1be5-42d1-89a1-b22c0c080ce4))
     (pin "2" (uuid 3342c221-96a6-45eb-b898-c9df488d6831))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B6") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -5963,7 +6145,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 200.025 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b027dac-99ec-4ae3-9eee-26223d39f5a2)
-    (property "Reference" "SwB8" (at 200.025 20.701 0)
+    (property "Reference" "SW9" (at 200.025 20.701 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 200.025 23.0124 0)
@@ -5978,9 +6160,35 @@
     (pin "1" (uuid 1100092b-eaa8-4888-90fd-6db8b7f5488d))
     (pin "2" (uuid ae8f4406-6ad9-446a-8c78-e1f326b52b05))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB8") (unit 1)
+          (reference "SW9") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Switch:SW_Push") (at 241.3 104.775 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 6d4ef6ad-0eee-48bd-883e-b6b73330ea00)
+    (property "Reference" "SW59" (at 241.3 97.536 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_Push" (at 241.3 99.8474 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 241.3 99.695 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 241.3 99.695 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 09b1c492-7b20-48d4-a3d2-e709020e5774))
+    (pin "2" (uuid 1ac56221-d6bd-4701-aebe-70095ffa2ad6))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "SW59") (unit 1)
         )
       )
     )
@@ -5989,7 +6197,7 @@
   (symbol (lib_id "Connector_Audio:AudioJack3_Ground") (at 175.26 144.78 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 75f479f5-a2d6-450d-8556-50df1db35145)
-    (property "Reference" "J2" (at 171.45 135.255 0)
+    (property "Reference" "J3" (at 171.45 135.255 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AudioJack3_Ground" (at 163.83 137.795 0)
@@ -6006,9 +6214,9 @@
     (pin "G" (uuid b2f803bb-13fe-4523-8781-2e16414b5e0e))
     (pin "S" (uuid 28f4686c-8401-45ae-a0c1-0b7cc49393f4))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "J2") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -6017,7 +6225,7 @@
   (symbol (lib_id "power:+3V3") (at 175.26 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e7accd5-d920-4193-a711-fff7c177ba33)
-    (property "Reference" "#PWR013" (at 175.26 138.43 0)
+    (property "Reference" "#PWR07" (at 175.26 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 177.165 130.81 0)
@@ -6031,9 +6239,9 @@
     )
     (pin "1" (uuid 6bd1983e-63c7-4337-b4ff-6ef7529b885d))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -6042,7 +6250,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 164.465 108.585 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 80842f0f-4c18-4d0e-8e52-00c21a966069)
-    (property "Reference" "D_G4" (at 166.497 107.4166 90)
+    (property "Reference" "D55" (at 166.497 107.4166 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 166.497 109.728 90)
@@ -6063,9 +6271,9 @@
     (pin "1" (uuid 965628ff-8465-49dd-a74a-21b3a206343a))
     (pin "2" (uuid adc96850-caed-4b02-bf54-48579742a2e6))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G4") (unit 1)
+          (reference "D55") (unit 1)
         )
       )
     )
@@ -6074,7 +6282,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 27.305 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 80d78b9e-65b3-457f-b2a0-4bde5a97ac86)
-    (property "Reference" "D_A6" (at 29.337 29.9466 90)
+    (property "Reference" "D1" (at 29.337 29.9466 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 29.337 32.258 90)
@@ -6095,9 +6303,9 @@
     (pin "1" (uuid 1e9fb144-8824-4c66-be6c-c9bfcfdbdc89))
     (pin "2" (uuid d6f9f953-8f02-45e1-b4cb-5fc7797f1801))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_A6") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -6119,7 +6327,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "H8") (unit 1)
         )
@@ -6130,7 +6338,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 221.615 104.775 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8197234b-d466-4dd0-b29a-d8c861bfb7ac)
-    (property "Reference" "SwG8" (at 221.615 97.536 0)
+    (property "Reference" "SW58" (at 221.615 97.536 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 221.615 99.8474 0)
@@ -6145,9 +6353,9 @@
     (pin "1" (uuid acdd6813-47a9-43b9-8c0d-c0787f18321e))
     (pin "2" (uuid 5b182f66-b0c8-4347-9c9e-3ee95097eabe))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG8") (unit 1)
+          (reference "SW58") (unit 1)
         )
       )
     )
@@ -6156,7 +6364,7 @@
   (symbol (lib_id "power:+3V3") (at 67.31 139.7 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 861a7455-ba0a-48e3-9629-9da63b9e9b08)
-    (property "Reference" "#PWR04" (at 63.5 139.7 0)
+    (property "Reference" "#PWR010" (at 63.5 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 71.12 139.7 90)
@@ -6170,9 +6378,9 @@
     )
     (pin "1" (uuid 0cb72f19-b9f2-4d64-9677-7999892e4afa))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -6181,7 +6389,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 186.055 31.75 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87516658-9dad-4cc9-9425-5fb73e022770)
-    (property "Reference" "D_B7" (at 188.087 30.5816 90)
+    (property "Reference" "D8" (at 188.087 30.5816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 188.087 32.893 90)
@@ -6202,9 +6410,9 @@
     (pin "1" (uuid d08e1d08-1a49-41e4-bf21-049802f9f74d))
     (pin "2" (uuid 890494fa-0c01-42d5-9b5c-5b4c3449c1d4))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B7") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -6213,7 +6421,7 @@
   (symbol (lib_id "power:+3V3") (at 93.98 127.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8824a7be-05cb-4bb0-8481-368f8085c987)
-    (property "Reference" "#PWR010" (at 93.98 131.445 0)
+    (property "Reference" "#PWR03" (at 93.98 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 93.98 122.555 0)
@@ -6227,9 +6435,9 @@
     )
     (pin "1" (uuid b88c7ad7-5ea2-4271-9216-5c1ba3b3a174))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -6238,7 +6446,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 125.095 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88a1e2f0-59c1-4b8c-a4d9-7396f6fdccd6)
-    (property "Reference" "SwG3" (at 125.095 96.901 0)
+    (property "Reference" "SW54" (at 125.095 96.901 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 125.095 99.2124 0)
@@ -6253,9 +6461,9 @@
     (pin "1" (uuid 54505f00-3f80-4bc0-a8cc-c7d2770a8312))
     (pin "2" (uuid ee02b7c4-6afb-473e-9c8c-5c0de8387f00))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwG3") (unit 1)
+          (reference "SW54") (unit 1)
         )
       )
     )
@@ -6264,7 +6472,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 41.91 27.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8a489612-68d5-42b8-94f4-f11c3196fd93)
-    (property "Reference" "SwA7" (at 41.91 20.066 0)
+    (property "Reference" "SW2" (at 41.91 20.066 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 41.91 22.3774 0)
@@ -6279,9 +6487,41 @@
     (pin "1" (uuid a951c924-9a47-4c3c-a084-51d3581587e8))
     (pin "2" (uuid be97e245-af30-4839-8966-9e533e17c6bc))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA7") (unit 1)
+          (reference "SW2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Diode:1N4148W") (at 246.38 108.585 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 8e022f9c-57ef-43bf-ab06-02ae7bbc61d2)
+    (property "Reference" "D59" (at 248.412 107.4166 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "~" (at 248.412 109.728 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 250.825 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf" (at 246.38 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "D" (at 246.38 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 246.38 108.585 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 08aafd4a-2e65-47b7-87d7-1b51407dd62b))
+    (pin "2" (uuid 010815b3-52bd-41a2-beb6-fdc6fd8f5fee))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "D59") (unit 1)
         )
       )
     )
@@ -6305,7 +6545,7 @@
     (pin "2" (uuid 2f65f2e6-5bf7-4be7-9a5b-d76bc92d8d63))
     (pin "1" (uuid 63767130-910a-4a1d-b5c1-b96907df3bef))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
           (reference "R2") (unit 1)
         )
@@ -6316,7 +6556,7 @@
   (symbol (lib_id "power:GND") (at 67.31 183.515 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9460a2b6-9cdc-4441-a351-1ac19a561723)
-    (property "Reference" "#PWR01" (at 67.31 189.865 0)
+    (property "Reference" "#PWR019" (at 67.31 189.865 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 67.437 187.9092 0)
@@ -6330,9 +6570,9 @@
     )
     (pin "1" (uuid 87007e48-ab94-441a-9510-1f63e0e130ed))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -6341,7 +6581,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 226.695 31.75 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a6c26536-93d6-4d26-a73c-1c583cf3126e)
-    (property "Reference" "D_B9" (at 228.727 30.5816 90)
+    (property "Reference" "D10" (at 228.727 30.5816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 228.727 32.893 90)
@@ -6362,9 +6602,9 @@
     (pin "1" (uuid 2bfaf2ea-9e1a-4751-afb9-78d23fd14e19))
     (pin "2" (uuid f1b2c784-3bcf-4dda-89ff-f69e793a852a))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B9") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -6373,7 +6613,7 @@
   (symbol (lib_id "power:GND") (at 109.22 177.165 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a75f59e9-137c-4681-b8df-322436358523)
-    (property "Reference" "#PWR06" (at 109.22 183.515 0)
+    (property "Reference" "#PWR017" (at 109.22 183.515 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 109.347 181.5592 0)
@@ -6387,9 +6627,9 @@
     )
     (pin "1" (uuid 1f763c12-c661-4ecb-8257-2f382db9c04b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -6398,10 +6638,10 @@
   (symbol (lib_id "Connector:Conn_ARM_SWD_TagConnect_TC2030") (at 244.475 140.97 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a87ae26b-dd96-4eb7-b3a1-2b994e04a591)
-    (property "Reference" "J5" (at 239.395 139.7 0)
+    (property "Reference" "J1" (at 239.395 139.7 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Conn_ARM_SWD" (at 239.395 142.24 0)
+    (property "Value" "Conn_ARM_SW" (at 239.395 142.24 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" (at 244.475 158.75 0)
@@ -6417,9 +6657,9 @@
     (pin "2" (uuid 82aedde9-73df-4261-bfd6-2df5bc88342e))
     (pin "4" (uuid ccd1a48f-e811-40c7-84c5-5cf91d12ce3b))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "J5") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -6428,7 +6668,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 130.175 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aa5f73c5-d177-4453-946e-2176a91dcfee)
-    (property "Reference" "D_G3" (at 132.207 106.7816 90)
+    (property "Reference" "D54" (at 132.207 106.7816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 132.207 109.093 90)
@@ -6449,9 +6689,9 @@
     (pin "1" (uuid d1aec2b0-f5a3-4de4-9c0e-f584d780f693))
     (pin "2" (uuid 49842493-4661-4c0c-8a6c-f482dd908d8d))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G3") (unit 1)
+          (reference "D54") (unit 1)
         )
       )
     )
@@ -6460,7 +6700,7 @@
   (symbol (lib_id "Connector_Audio:AudioJack3_Ground") (at 201.295 144.145 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b192da38-1e43-451f-8194-68e22322340b)
-    (property "Reference" "J3" (at 197.485 137.16 0)
+    (property "Reference" "J2" (at 197.485 137.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AudioJack3_Ground" (at 199.39 150.495 0)
@@ -6477,9 +6717,9 @@
     (pin "G" (uuid aecabfb9-eea7-43d1-86cf-8ad18905ec5f))
     (pin "S" (uuid 205666c5-5e1f-4ac1-903b-65d0f52b6e8a))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "J3") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -6488,7 +6728,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 267.97 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b2988d6c-5a5a-4673-b7ec-9c67a69cee51)
-    (property "Reference" "H1" (at 270.51 147.32 0)
+    (property "Reference" "H3" (at 270.51 147.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 270.51 148.59 0)
@@ -6501,9 +6741,35 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "H1") (unit 1)
+          (reference "H3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Switch:SW_Push") (at 22.225 104.14 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid b3fd9d33-a895-43d9-b47c-fd4f797c9e4d)
+    (property "Reference" "SW49" (at 22.225 96.901 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_Push" (at 22.225 99.2124 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 22.225 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 22.225 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c949989d-68ef-4907-8fd6-7efb3896019b))
+    (pin "2" (uuid 8afdf048-581b-48e9-88b6-1b6eb17296a3))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "SW49") (unit 1)
         )
       )
     )
@@ -6512,7 +6778,7 @@
   (symbol (lib_id "power:GND") (at 241.935 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b6314bfb-e5b6-4128-94c8-90cc52739128)
-    (property "Reference" "#PWR018" (at 241.935 158.75 0)
+    (property "Reference" "#PWR013" (at 241.935 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 242.062 156.7942 0)
@@ -6526,9 +6792,9 @@
     )
     (pin "1" (uuid 46e03f23-6e92-4ff9-a230-5744c311b5a0))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -6537,7 +6803,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 265.43 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b674ddf2-c09c-4199-9319-a8cb134d3c15)
-    (property "Reference" "SwB11" (at 265.43 20.701 0)
+    (property "Reference" "SW12" (at 265.43 20.701 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 265.43 23.0124 0)
@@ -6552,9 +6818,9 @@
     (pin "1" (uuid 7bf14750-69b3-4396-a8d9-62b28acecdcc))
     (pin "2" (uuid e1769c41-681d-4f10-a04e-79a1a4fa99ae))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB11") (unit 1)
+          (reference "SW12") (unit 1)
         )
       )
     )
@@ -6563,7 +6829,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 246.38 31.75 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b72d63bd-654f-4f5e-8350-c599be53da7c)
-    (property "Reference" "D_B10" (at 248.412 30.5816 90)
+    (property "Reference" "D11" (at 248.412 30.5816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 248.412 32.893 90)
@@ -6584,9 +6850,9 @@
     (pin "1" (uuid b34c127c-613f-4fd6-92fe-705a8b1315cc))
     (pin "2" (uuid 01767419-7339-49ff-b82e-918cb003673e))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B10") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -6595,7 +6861,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 226.695 108.585 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb94c706-c1c6-4e19-ac2a-271d09f29af0)
-    (property "Reference" "D_G8" (at 228.727 107.4166 90)
+    (property "Reference" "D58" (at 228.727 107.4166 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 228.727 109.728 90)
@@ -6616,9 +6882,9 @@
     (pin "1" (uuid 797fc62f-ec08-4f23-905c-e7ecf00b70db))
     (pin "2" (uuid 56cab98c-3eb1-41cd-bdf8-fa073613afc8))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_G8") (unit 1)
+          (reference "D58") (unit 1)
         )
       )
     )
@@ -6627,7 +6893,7 @@
   (symbol (lib_id "power:GND") (at 59.69 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc07e3c7-80e1-4926-bed5-3c2f280d15b8)
-    (property "Reference" "#PWR02" (at 59.69 132.08 0)
+    (property "Reference" "#PWR01" (at 59.69 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 59.817 130.1242 0)
@@ -6641,9 +6907,9 @@
     )
     (pin "1" (uuid 37413e5c-816d-49a5-9d44-3ed9b635b0ac))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -6652,7 +6918,7 @@
   (symbol (lib_id "power:+3V3") (at 241.935 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c1ef9cbc-6769-42bb-ab81-047db899c872)
-    (property "Reference" "#PWR017" (at 241.935 133.35 0)
+    (property "Reference" "#PWR04" (at 241.935 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 241.935 124.46 0)
@@ -6666,9 +6932,9 @@
     )
     (pin "1" (uuid 68b5a536-f612-4858-839d-6adb67238a26))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -6677,7 +6943,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.775 27.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c362e8b2-2663-4c09-a790-c89cecf626e5)
-    (property "Reference" "SwA10" (at 104.775 20.066 0)
+    (property "Reference" "SW5" (at 104.775 20.066 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 104.775 22.3774 0)
@@ -6692,9 +6958,9 @@
     (pin "1" (uuid c646e466-4342-42b1-83da-769ea2bb1595))
     (pin "2" (uuid b9b5ff18-fd8e-448a-a87e-cec697b285fc))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwA10") (unit 1)
+          (reference "SW5") (unit 1)
         )
       )
     )
@@ -6703,7 +6969,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 159.385 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c3a56157-d881-41d6-ada6-5a26f4dbbe17)
-    (property "Reference" "SwB6" (at 159.385 20.701 0)
+    (property "Reference" "SW7" (at 159.385 20.701 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push" (at 159.385 23.0124 0)
@@ -6718,9 +6984,9 @@
     (pin "1" (uuid 173586ac-4ad9-425f-b9ba-a7737c314e3b))
     (pin "2" (uuid 8a6bb985-aad6-4467-91d5-c23ab9c8a003))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "SwB6") (unit 1)
+          (reference "SW7") (unit 1)
         )
       )
     )
@@ -6729,7 +6995,7 @@
   (symbol (lib_id "power:VBUS") (at 67.31 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9d8b4e3-2541-4c9f-86c2-891aa3902c58)
-    (property "Reference" "#PWR03" (at 67.31 135.89 0)
+    (property "Reference" "#PWR05" (at 67.31 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (at 69.85 128.27 0)
@@ -6743,9 +7009,9 @@
     )
     (pin "1" (uuid 8bd4c15a-ac9c-4032-be6e-44944e3467bb))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -6754,7 +7020,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 80.01 180.975 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cf7982c8-fe2f-4bb4-b68d-47b7f2e5ae7c)
-    (property "Reference" "J1" (at 80.01 172.72 0)
+    (property "Reference" "J4" (at 80.01 172.72 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAT" (at 80.01 175.26 0)
@@ -6769,9 +7035,35 @@
     (pin "1" (uuid aed5db10-542d-4b7b-a378-e4f51554a34d))
     (pin "2" (uuid 67240e22-d447-4dc2-bfbf-21da5056f432))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "J1") (unit 1)
+          (reference "J4") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Switch:SW_Push") (at 265.43 104.775 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid da5e0366-86ac-43c8-accd-27d5047fe402)
+    (property "Reference" "SW60" (at 265.43 97.536 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_Push" (at 265.43 99.8474 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 265.43 99.695 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 265.43 99.695 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid da7e16f3-fb87-4366-838c-6509fb7ff7ca))
+    (pin "2" (uuid 2b98b074-6355-4a3b-bb6b-a37f8cdda9c3))
+    (instances
+      (project "basic60"
+        (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
+          (reference "SW60") (unit 1)
         )
       )
     )
@@ -6780,7 +7072,7 @@
   (symbol (lib_id "Diode:1N4148W") (at 205.105 31.75 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db6b216e-5b9c-4bef-83fe-b2b5acbc4394)
-    (property "Reference" "D_B8" (at 207.137 30.5816 90)
+    (property "Reference" "D9" (at 207.137 30.5816 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~" (at 207.137 32.893 90)
@@ -6801,9 +7093,9 @@
     (pin "1" (uuid 0315946f-3882-42df-af5c-785d7a80d1de))
     (pin "2" (uuid 7997156c-3501-4332-8a54-f465807d7d2c))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "D_B8") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -6812,7 +7104,7 @@
   (symbol (lib_id "power:+3V3") (at 124.46 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd00dbe9-45f6-4858-9fc7-60cb451e9fd8)
-    (property "Reference" "#PWR08" (at 124.46 130.81 0)
+    (property "Reference" "#PWR02" (at 124.46 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 124.46 121.92 0)
@@ -6826,9 +7118,9 @@
     )
     (pin "1" (uuid 46729fd7-4a15-4fec-b5d8-c48a43db050d))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -6837,7 +7129,7 @@
   (symbol (lib_id "power:GND") (at 182.88 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid debd3969-50a8-496d-937a-8b63745342ee)
-    (property "Reference" "#PWR016" (at 189.23 142.24 0)
+    (property "Reference" "#PWR012" (at 189.23 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 187.2742 142.113 0)
@@ -6851,9 +7143,9 @@
     )
     (pin "1" (uuid ae94b26e-2425-4de5-84b3-71edd9176861))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -6862,7 +7154,7 @@
   (symbol (lib_id "power:+3V3") (at 32.385 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3e2853c-0467-478c-8c4b-d3d6a420f48b)
-    (property "Reference" "#PWR011" (at 32.385 180.34 0)
+    (property "Reference" "#PWR015" (at 32.385 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 32.385 171.45 0)
@@ -6876,9 +7168,9 @@
     )
     (pin "1" (uuid 32dbb1c4-770c-43c4-8616-9749b6b57eac))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -6887,7 +7179,7 @@
   (symbol (lib_id "power:GND") (at 208.915 141.605 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f062c7d2-4d4e-4819-8b07-c7db5376d496)
-    (property "Reference" "#PWR015" (at 215.265 141.605 0)
+    (property "Reference" "#PWR011" (at 215.265 141.605 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 213.3092 141.478 0)
@@ -6901,9 +7193,9 @@
     )
     (pin "1" (uuid 7d595015-f48a-47c2-bfc3-f72c29d45690))
     (instances
-      (project "ergo56"
+      (project "basic60"
         (path "/10109f84-4940-47f8-8640-91f185ac9bc1"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
