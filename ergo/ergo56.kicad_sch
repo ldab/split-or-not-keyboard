@@ -5095,7 +5095,7 @@
     (property "Value" "Seeeduino Xiao nRF52840" (at 59.3441 165.1 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-xp-promicroish:Xiao_nRF52840_ACH" (at 49.53 179.07 0)
+    (property "Footprint" "PCM_marbastlib-xp-promicroish:Xiao_nRF52840_AC_Reflow" (at 49.53 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 36.83 134.62 0)

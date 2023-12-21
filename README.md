@@ -21,10 +21,23 @@ Maybe you are here because you are considering a ZMK keyboard and you don't know
 ## How?
 
 
-
 ## Designed with KiCAD 7.09
 
 * Important libs are added as plugin as per described on https://github.com/ebastler/marbastlib
+
+## Variants
+
+### Ergo
+
+![ergo](./ergo)
+
+<p align="center">
+  <img src="ergo/3D/ergo56-3D_top30deg.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="ergo/Schematic/ergo56-schematic.svg" width="30%">
+</p>
 
 ## Outro
 
