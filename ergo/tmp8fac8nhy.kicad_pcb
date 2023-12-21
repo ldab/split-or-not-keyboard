@@ -248,7 +248,7 @@
       (net 10 "row3") (pinfunction "K") (pintype "passive") (tstamp 08ef307d-32cd-4b8c-92fd-e9e00c64801b))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 66 "Net-(D_E5-A)") (pinfunction "A") (pintype "passive") (tstamp a7f7b2c5-800d-4076-b7be-2bc814686d0c))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -320,7 +320,7 @@
       (net 10 "row3") (pinfunction "K") (pintype "passive") (tstamp ec158470-8fa9-4cd8-b605-f07966f920e6))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 64 "Net-(D_E3-A)") (pinfunction "A") (pintype "passive") (tstamp b6c04cdf-0d88-473c-95d7-55da0a4b2e72))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -392,7 +392,7 @@
       (net 10 "row3") (pinfunction "K") (pintype "passive") (tstamp 592dda51-4a53-4181-a745-cf23301f4a96))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 63 "Net-(D_E2-A)") (pinfunction "A") (pintype "passive") (tstamp beaba688-ca30-4cf1-93c1-587f4dafbfc5))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -464,7 +464,7 @@
       (net 10 "row3") (pinfunction "K") (pintype "passive") (tstamp ce355246-0a98-40c1-b5b6-77271312e253))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 62 "Net-(D_E1-A)") (pinfunction "A") (pintype "passive") (tstamp ba78370e-89e1-45a4-8fe4-0dbf658b389f))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -536,7 +536,7 @@
       (net 10 "row3") (pinfunction "K") (pintype "passive") (tstamp e0b1c534-bd35-4e7f-9299-b42a63cc2359))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 61 "Net-(D_E0-A)") (pinfunction "A") (pintype "passive") (tstamp c2541ebf-d65f-4f14-89a4-17cd68dd013a))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -608,7 +608,7 @@
       (net 54 "row7") (pinfunction "K") (pintype "passive") (tstamp 8453abf0-05e7-4dfe-80dd-72a332506a09))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 60 "Net-(D_D5-A)") (pinfunction "A") (pintype "passive") (tstamp f00cdca6-b164-491e-b19c-159a6d4fe783))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -680,7 +680,7 @@
       (net 54 "row7") (pinfunction "K") (pintype "passive") (tstamp 1a65f876-a133-4ece-837e-253c3fb79744))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 59 "Net-(D_D4-A)") (pinfunction "A") (pintype "passive") (tstamp c3f11f09-0cd7-4ada-8475-e309b859186a))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -752,7 +752,7 @@
       (net 54 "row7") (pinfunction "K") (pintype "passive") (tstamp fdab2b08-e98e-4a6a-82b2-a818e7ffd680))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 58 "Net-(D_D3-A)") (pinfunction "A") (pintype "passive") (tstamp 9a9a3157-1f1f-49c3-8000-350c865c0b57))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -824,7 +824,7 @@
       (net 54 "row7") (pinfunction "K") (pintype "passive") (tstamp 263403ea-beb4-454c-a130-09c891dc2dd2))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 57 "Net-(D_D2-A)") (pinfunction "A") (pintype "passive") (tstamp d165feee-10cb-4675-b0b1-f917bb3a407b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -896,7 +896,7 @@
       (net 54 "row7") (pinfunction "K") (pintype "passive") (tstamp 5bdc8b75-025f-4d23-8e5f-1cb98729e2d0))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 56 "Net-(D_D1-A)") (pinfunction "A") (pintype "passive") (tstamp 6f6b29cc-1d44-4d3c-99ab-82054612c946))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -968,7 +968,7 @@
       (net 54 "row7") (pinfunction "K") (pintype "passive") (tstamp 3c74b524-ced6-4705-bc11-8354e882303a))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 55 "Net-(D_D0-A)") (pinfunction "A") (pintype "passive") (tstamp 904c8674-301a-460c-b948-71facc905317))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1040,7 +1040,7 @@
       (net 9 "row2") (pinfunction "K") (pintype "passive") (tstamp 0267f039-c688-4ddf-b032-aea31b026f9b))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 53 "Net-(D_C5-A)") (pinfunction "A") (pintype "passive") (tstamp 8801dccd-e3ef-49d8-a6ac-f86f28f426de))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1112,7 +1112,7 @@
       (net 9 "row2") (pinfunction "K") (pintype "passive") (tstamp e940d965-548d-4d15-a8d4-c1f75b7b5015))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 52 "Net-(D_C4-A)") (pinfunction "A") (pintype "passive") (tstamp b4102809-b66d-434c-9835-9d40b7cb6a32))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1184,7 +1184,7 @@
       (net 9 "row2") (pinfunction "K") (pintype "passive") (tstamp 45b3e10c-1dac-47fd-a9dc-8b19991e6332))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 51 "Net-(D_C3-A)") (pinfunction "A") (pintype "passive") (tstamp 9e2b05d1-11e4-4f5d-8eca-d2f4359b12c9))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1256,7 +1256,7 @@
       (net 9 "row2") (pinfunction "K") (pintype "passive") (tstamp 3ca79158-c3a9-4302-b88e-7232699398eb))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 50 "Net-(D_C2-A)") (pinfunction "A") (pintype "passive") (tstamp 4c3a0930-bd30-4b00-830d-2199d40a8e8b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1328,7 +1328,7 @@
       (net 9 "row2") (pinfunction "K") (pintype "passive") (tstamp e1d19091-a128-49b4-8c44-28441386e054))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 49 "Net-(D_C1-A)") (pinfunction "A") (pintype "passive") (tstamp bb33abbc-edf2-41e2-a950-686592fe347c))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1400,7 +1400,7 @@
       (net 9 "row2") (pinfunction "K") (pintype "passive") (tstamp 3a0a7067-06ed-4913-94d3-ee8899111685))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 48 "Net-(D_C0-A)") (pinfunction "A") (pintype "passive") (tstamp 50d9bb87-77c7-4058-af3d-a8441c1a23b2))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1472,7 +1472,7 @@
       (net 34 "row6") (pinfunction "K") (pintype "passive") (tstamp e5316ea1-d96d-4f5f-a695-d015423f5d1f))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 40 "Net-(D_B5-A)") (pinfunction "A") (pintype "passive") (tstamp 66378d6e-9883-4fd7-8e4e-2e6d951783d8))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1544,7 +1544,7 @@
       (net 34 "row6") (pinfunction "K") (pintype "passive") (tstamp ae1578e8-4fc1-4e8a-b20c-c81f1f74a787))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 39 "Net-(D_B4-A)") (pinfunction "A") (pintype "passive") (tstamp b07bb681-fbe3-4b97-803e-a95acc88eadc))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1616,7 +1616,7 @@
       (net 34 "row6") (pinfunction "K") (pintype "passive") (tstamp dbfc57be-3c3b-419a-8c78-e4c805c64e65))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 38 "Net-(D_B3-A)") (pinfunction "A") (pintype "passive") (tstamp 7a061ad7-b42f-4cb0-a850-8f233282f21d))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1688,7 +1688,7 @@
       (net 34 "row6") (pinfunction "K") (pintype "passive") (tstamp 94916f07-74a3-4856-8e2c-9c1a43db3ef9))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 37 "Net-(D_B2-A)") (pinfunction "A") (pintype "passive") (tstamp d416b260-53ee-4074-a0d7-538b044e707e))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1760,7 +1760,7 @@
       (net 34 "row6") (pinfunction "K") (pintype "passive") (tstamp c0d77dc6-4b8f-4df1-8b79-bc27b9c3b1c5))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 36 "Net-(D_B1-A)") (pinfunction "A") (pintype "passive") (tstamp 3851085d-faef-4698-a6be-9f092b4a514f))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1832,7 +1832,7 @@
       (net 34 "row6") (pinfunction "K") (pintype "passive") (tstamp 1aa46778-8dc8-4bb3-869c-4bf31d3ba65c))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 35 "Net-(D_B0-A)") (pinfunction "A") (pintype "passive") (tstamp 53e371e6-cf14-4388-9d5b-c5d3f3b148a7))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1904,7 +1904,7 @@
       (net 8 "row1") (pinfunction "K") (pintype "passive") (tstamp cd503457-141c-494c-9619-c6fd10563704))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 27 "Net-(D_A5-A)") (pinfunction "A") (pintype "passive") (tstamp 1160cf67-0cd5-498e-864e-b03dfa41b95a))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1976,7 +1976,7 @@
       (net 8 "row1") (pinfunction "K") (pintype "passive") (tstamp f3acb402-7da1-484d-8036-09b25e8ab17a))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 26 "Net-(D_A4-A)") (pinfunction "A") (pintype "passive") (tstamp 00b7b45c-9d5e-47e1-b7fc-a4fee9348bcc))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2048,7 +2048,7 @@
       (net 8 "row1") (pinfunction "K") (pintype "passive") (tstamp ca8003c7-8591-4e75-83b5-7919a1ef60e3))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 25 "Net-(D_A3-A)") (pinfunction "A") (pintype "passive") (tstamp 258104d4-5201-4cb2-8618-9d6b1987d5e5))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2120,7 +2120,7 @@
       (net 8 "row1") (pinfunction "K") (pintype "passive") (tstamp ed4b5239-71b4-4d8c-8124-f75200d077fb))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 24 "Net-(D_A2-A)") (pinfunction "A") (pintype "passive") (tstamp 46585071-9b18-40b7-826e-34d290f3a5d1))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2192,7 +2192,7 @@
       (net 8 "row1") (pinfunction "K") (pintype "passive") (tstamp 149aff31-12a3-4e99-86a2-c71211a06411))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 23 "Net-(D_A1-A)") (pinfunction "A") (pintype "passive") (tstamp e9e7d019-14bb-4612-a4ef-1288a1743ead))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2264,7 +2264,7 @@
       (net 8 "row1") (pinfunction "K") (pintype "passive") (tstamp 34fa001c-1ac1-4816-966e-f46f072b4876))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 22 "Net-(D_A0-A)") (pinfunction "A") (pintype "passive") (tstamp 9366d274-7d96-422c-a937-bdbdbe9044d9))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2336,7 +2336,7 @@
       (net 78 "row9") (pinfunction "K") (pintype "passive") (tstamp 71b2141a-d531-4d5f-a941-f4e67c0b92e0))
     (pad "2" smd roundrect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 81 "Net-(D_G7-A)") (pinfunction "A") (pintype "passive") (tstamp 9c51a0f0-027b-4006-af1d-b59f7804da1b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2408,7 +2408,7 @@
       (net 78 "row9") (pinfunction "K") (pintype "passive") (tstamp 62f78046-b538-4254-b676-de8f31fa337b))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 80 "Net-(D_G6-A)") (pinfunction "A") (pintype "passive") (tstamp cec8a001-0e5f-43d9-a3f2-bc08cf5f8fc9))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2480,7 +2480,7 @@
       (net 78 "row9") (pinfunction "K") (pintype "passive") (tstamp 58e1b606-c46f-4e8c-bf29-6db25ebd6c74))
     (pad "2" smd roundrect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 79 "Net-(D_G4-A)") (pinfunction "A") (pintype "passive") (tstamp 9d2e341c-dd89-4693-85da-4e0b68934766))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2552,7 +2552,7 @@
       (net 11 "row4") (pinfunction "K") (pintype "passive") (tstamp b945a5fc-5ede-4d84-a040-4759e8d3a09f))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 76 "Net-(D_G2-A)") (pinfunction "A") (pintype "passive") (tstamp d1a5d619-d039-45f0-8d7e-3e259455aad7))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2624,7 +2624,7 @@
       (net 11 "row4") (pinfunction "K") (pintype "passive") (tstamp f29230ae-d0f3-47aa-bc7a-03bdde09dac4))
     (pad "2" smd roundrect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 75 "Net-(D_G1-A)") (pinfunction "A") (pintype "passive") (tstamp 190a8be2-3549-4d64-985b-080f0a21fa2a))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2696,7 +2696,7 @@
       (net 67 "row8") (pinfunction "K") (pintype "passive") (tstamp 6413ceda-7a90-46e7-a447-322dbdf1cf8a))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 73 "Net-(D_F5-A)") (pinfunction "A") (pintype "passive") (tstamp 06770fe8-9ec7-47b9-8a84-067944ad3388))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2768,7 +2768,7 @@
       (net 67 "row8") (pinfunction "K") (pintype "passive") (tstamp efa7cc42-2259-4934-8b0e-177c15743004))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 72 "Net-(D_F4-A)") (pinfunction "A") (pintype "passive") (tstamp be4b5ea5-04be-4f08-9093-e74811bafa0b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2840,7 +2840,7 @@
       (net 67 "row8") (pinfunction "K") (pintype "passive") (tstamp f2475788-aba6-4be0-8943-70f4b8500324))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 71 "Net-(D_F3-A)") (pinfunction "A") (pintype "passive") (tstamp 56568ea5-9fca-4def-a7d9-c32f36de4e65))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2912,7 +2912,7 @@
       (net 67 "row8") (pinfunction "K") (pintype "passive") (tstamp 9dd7e003-8a2f-4168-a903-479bd980447a))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 70 "Net-(D_F2-A)") (pinfunction "A") (pintype "passive") (tstamp cebf82fa-dcac-43d0-b119-ef8134e619de))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2984,7 +2984,7 @@
       (net 67 "row8") (pinfunction "K") (pintype "passive") (tstamp 954a760b-2906-4779-98fe-415bccd5dcd3))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 69 "Net-(D_F1-A)") (pinfunction "A") (pintype "passive") (tstamp a29f4c8d-2d56-4219-a05c-371d706324f5))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3056,7 +3056,7 @@
       (net 67 "row8") (pinfunction "K") (pintype "passive") (tstamp c966cdd4-a9ed-4ea7-b058-102898cfd7fc))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 68 "Net-(D_F0-A)") (pinfunction "A") (pintype "passive") (tstamp 3ccb7ea5-3e06-4a12-8232-4b13549399ae))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3128,7 +3128,7 @@
       (net 10 "row3") (pinfunction "K") (pintype "passive") (tstamp ddc07a9f-6f3b-4d69-b19e-fed2913e98d6))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 65 "Net-(D_E4-A)") (pinfunction "A") (pintype "passive") (tstamp 8f846d91-b52a-4e8f-a8ee-56d81a83f5bf))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3225,7 +3225,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/../utils/audio_3.5mm_trrs.STEP"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/audio_3.5mm_trrs.STEP"
       (offset (xyz 5.5 -3.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -3297,7 +3297,7 @@
       (net 41 "row5") (pinfunction "K") (pintype "passive") (tstamp 59fbc25e-a1da-4232-8038-118f19fe0d0b))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 46 "Net-(D_B10-A)") (pinfunction "A") (pintype "passive") (tstamp 2ce06294-8eae-4ed6-81be-7a394ef3938a))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3429,7 +3429,7 @@
       (net 20 "row0") (pinfunction "K") (pintype "passive") (tstamp b8749fd5-8538-4bf1-8352-bc49ccf560f2))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 33 "Net-(D_A11-A)") (pinfunction "A") (pintype "passive") (tstamp 78d36ea5-69ed-41c7-8ed3-400dc764ec62))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3513,7 +3513,7 @@
       (net 21 "+3V3") (pintype "passive") (tstamp 7d9cd1f3-1776-4977-b3d6-64a5fc75254e))
     (pad "2" smd roundrect (at 0.8625 0 180) (size 1.075 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 7 "GND") (pintype "passive") (tstamp 03c3286b-9ac1-4d60-a057-a32a505da3b6))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+    (model "/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3585,7 +3585,7 @@
       (net 20 "row0") (pinfunction "K") (pintype "passive") (tstamp 237f5fec-6a25-4bd2-8fb9-c215e8c0a86f))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 29 "Net-(D_A7-A)") (pinfunction "A") (pintype "passive") (tstamp f5dc0a6e-0bda-4b6c-84f8-4faaf747362b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3657,7 +3657,7 @@
       (net 20 "row0") (pinfunction "K") (pintype "passive") (tstamp 42c4d149-5ac5-4499-b031-5ac9941098aa))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 32 "Net-(D_A10-A)") (pinfunction "A") (pintype "passive") (tstamp dc075a9e-df5e-421e-827b-d0b0bb15a1ce))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3741,7 +3741,7 @@
       (net 21 "+3V3") (pintype "passive") (tstamp 6ec7d815-2b40-4c05-82fd-847789cfd131))
     (pad "2" smd roundrect (at 0.9125 0 195) (size 0.975 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 83 "SCL") (pintype "passive") (tstamp df56e8cf-8bab-4335-83a6-940bfe41e61c))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+    (model "/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3813,7 +3813,7 @@
       (net 20 "row0") (pinfunction "K") (pintype "passive") (tstamp ea537464-05de-4b96-9aab-ee965885fecf))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 28 "Net-(D_A6-A)") (pinfunction "A") (pintype "passive") (tstamp 975b62e2-9692-487c-a593-492f83490735))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3885,7 +3885,7 @@
       (net 41 "row5") (pinfunction "K") (pintype "passive") (tstamp 2d809ece-ee19-4067-8a4d-93728000b597))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 43 "Net-(D_B7-A)") (pinfunction "A") (pintype "passive") (tstamp f6dd1b34-16d4-4b0b-b15c-b5619e77d23e))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4024,7 +4024,7 @@
     (pad "8" smd rect (at 1.95 1.27 270) (size 2.4 0.74) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae425402-5682-4671-aed1-fc9b50f762e5))
     (pad "9" smd rect (at -1.95 2.54 270) (size 2.4 0.74) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bfeafedb-e6fa-419c-bad0-ef9b389d6ccd))
     (pad "10" smd rect (at 1.95 2.54 270) (size 2.4 0.74) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f96b5b84-135f-4b17-9aa0-bedb3b902bbc))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Vertical_SMD.wrl"
+    (model "/usr/share/kicad/3dmodels/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Vertical_SMD.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4096,7 +4096,7 @@
       (net 11 "row4") (pinfunction "K") (pintype "passive") (tstamp eb0d03c7-201a-45c7-bd88-7141f973d7d5))
     (pad "2" smd roundrect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 74 "Net-(D_G0-A)") (pinfunction "A") (pintype "passive") (tstamp 8f5e8507-e933-448c-93d3-a57f0de9fe8b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4168,7 +4168,7 @@
       (net 41 "row5") (pinfunction "K") (pintype "passive") (tstamp 4c638530-47b9-4c69-8378-1cb23d94b3b9))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 42 "Net-(D_B6-A)") (pinfunction "A") (pintype "passive") (tstamp 874819f9-3fc9-4032-b53f-a4104e244084))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4265,7 +4265,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/../utils/audio_3.5mm_trrs.STEP"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/audio_3.5mm_trrs.STEP"
       (offset (xyz 5.5 -3.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -4369,7 +4369,7 @@
       (net 87 "SDA") (pinfunction "SDA") (pintype "bidirectional") (tstamp c24a3a17-ef81-4270-aa21-8a2965dac087))
     (pad "24" smd roundrect (at 2.8625 -3.575) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 21 "+3V3") (pinfunction "VDD") (pintype "power_in") (tstamp 73ceb5df-4368-4b84-88fe-e3d7b6d76b7b))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-24_4.4x7.8mm_P0.65mm.wrl"
+    (model "/usr/share/kicad/3dmodels/Package_SO.3dshapes/TSSOP-24_4.4x7.8mm_P0.65mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4441,7 +4441,7 @@
       (net 20 "row0") (pinfunction "K") (pintype "passive") (tstamp fc1d6e17-18a5-4961-b9ad-a725c6e013c1))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 31 "Net-(D_A9-A)") (pinfunction "A") (pintype "passive") (tstamp d3ec4b0b-5906-47b7-9e03-66d3029f2a37))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6474,7 +6474,7 @@
       (net 41 "row5") (pinfunction "K") (pintype "passive") (tstamp 6ddbc703-9102-44d2-94d7-f7ca4ee2a66a))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 45 "Net-(D_B9-A)") (pinfunction "A") (pintype "passive") (tstamp 3a2c3e5c-afaf-42b7-9f9e-eb28e4c00e39))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6576,7 +6576,7 @@
       (net 78 "row9") (pinfunction "K") (pintype "passive") (tstamp 73d66c00-7d6d-4e4d-b83d-79f9a8eeba73))
     (pad "2" smd roundrect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 82 "Net-(D_G8-A)") (pinfunction "A") (pintype "passive") (tstamp 70f9bff5-c9ac-4de1-b0b7-1ab0c20d59e3))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6648,7 +6648,7 @@
       (net 41 "row5") (pinfunction "K") (pintype "passive") (tstamp 7afbd9bd-1b87-4102-af94-9b83d009ce33))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 44 "Net-(D_B8-A)") (pinfunction "A") (pintype "passive") (tstamp 3e028507-aa0d-4cfa-b2b4-8bcd4237341f))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6720,7 +6720,7 @@
       (net 41 "row5") (pinfunction "K") (pintype "passive") (tstamp 73c6684e-4272-4fae-a8fa-68db57977103))
     (pad "2" smd roundrect (at 1.65 0 345) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 47 "Net-(D_B11-A)") (pinfunction "A") (pintype "passive") (tstamp 60e2dabd-56e4-49f8-a067-9cd77b9123ca))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6774,7 +6774,7 @@
       (net 21 "+3V3") (pintype "passive") (tstamp 43e1d876-26f2-4dbe-a961-f4bab552472a))
     (pad "2" smd roundrect (at 0.9125 0 195) (size 0.975 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 87 "SDA") (pintype "passive") (tstamp 4aaa0336-de75-48e9-a133-8697cf11b983))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+    (model "/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8061,7 +8061,7 @@
       (net 20 "row0") (pinfunction "K") (pintype "passive") (tstamp a9c8a05a-f8d0-4420-b15d-12f7192824c8))
     (pad "2" smd roundrect (at 1.65 0 15) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 30 "Net-(D_A8-A)") (pinfunction "A") (pintype "passive") (tstamp 9afa4748-67d4-4409-886f-9d32211e0495))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8278,7 +8278,7 @@
       (net 11 "row4") (pinfunction "K") (pintype "passive") (tstamp 5c4f6d82-b847-4cbb-84c5-d0299ea68df4))
     (pad "2" smd roundrect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 77 "Net-(D_G3-A)") (pinfunction "A") (pintype "passive") (tstamp 912a0e99-8b65-44f7-a500-d3633b4e9454))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8499,12 +8499,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -8695,12 +8695,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -8891,12 +8891,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -9087,12 +9087,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -9283,12 +9283,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -9479,12 +9479,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -9675,12 +9675,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -9871,12 +9871,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -10067,12 +10067,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -10263,12 +10263,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -10459,12 +10459,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -10655,12 +10655,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -10851,12 +10851,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -11047,12 +11047,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -11243,12 +11243,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -11439,12 +11439,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -11635,12 +11635,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -11831,12 +11831,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -12027,12 +12027,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -12223,12 +12223,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -12419,12 +12419,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -12615,12 +12615,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -12811,12 +12811,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -13007,12 +13007,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -13203,12 +13203,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -13399,12 +13399,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -13595,12 +13595,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -13791,12 +13791,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -13987,12 +13987,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -14183,12 +14183,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -14379,12 +14379,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -14575,12 +14575,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -14771,12 +14771,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -14967,12 +14967,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -15163,12 +15163,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -15359,12 +15359,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -15555,12 +15555,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -15751,12 +15751,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -15947,12 +15947,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -16143,12 +16143,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -16339,12 +16339,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -16535,12 +16535,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -16731,12 +16731,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -16927,12 +16927,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -17123,12 +17123,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -17319,12 +17319,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -17515,12 +17515,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -17711,12 +17711,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -17907,12 +17907,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -18103,12 +18103,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -18299,12 +18299,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -18495,12 +18495,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -18691,12 +18691,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -18887,12 +18887,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -19083,12 +19083,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -19279,12 +19279,12 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc Low Profile Switch.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc Low Profile Switch.step"
       (offset (xyz 0 0 -3.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 180))
     )
-    (model "${KIPRJMOD}/..//utils/Kailh Choc FunkMonk 1u.step"
+    (model "/home/leo/Desktop/split-or-not-keyboard/utils/Kailh Choc FunkMonk 1u.step"
       (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
@@ -19362,8 +19362,8 @@
       (net 7 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 422b6666-16d2-4bea-9b11-83284f8329bb))
     (pad "2" smd roundrect (at 1 2.85) (size 1 3.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 19 "BAT") (pinfunction "Pin_2") (pintype "passive") (tstamp d822ca70-7782-41f1-8717-bbb2bfb21844))
-    (pad "MP" smd roundrect (at -3.35 -2.9) (size 1.5 3.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.166667) (tstamp d3c45365-f456-495b-b62d-0caadce13eed))
-    (pad "MP" smd roundrect (at 3.35 -2.9) (size 1.5 3.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.166667) (tstamp 07c6238c-0223-450f-96dd-be71c4d20997))
+    (pad "MP" smd roundrect (at -3.35 -2.9) (size 1.5 3.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1666673333) (tstamp d3c45365-f456-495b-b62d-0caadce13eed))
+    (pad "MP" smd roundrect (at 3.35 -2.9) (size 1.5 3.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1666673333) (tstamp 07c6238c-0223-450f-96dd-be71c4d20997))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -28624,7 +28624,7 @@
         (xy 142.950926 70.827673)
         (xy 142.949254 70.792553)
         (xy 142.94151 70.629991)
-        (xy 142.938871 70.619115)
+        (xy 142.938923 70.619329)
         (xy 142.930954 70.58648)
         (xy 142.89196 70.425745)
         (xy 142.804652 70.234568)
@@ -28739,7 +28739,7 @@
         (xy 134.755896 70.176156)
         (xy 134.889607 70.421028)
         (xy 134.889608 70.421029)
-        (xy 135.046819 70.631038)
+        (xy 135.046039 70.629996)
         (xy 135.056813 70.644389)
         (xy 135.25409 70.841666)
         (xy 135.254093 70.841668)
@@ -32406,7 +32406,7 @@
         (xy 73.363972 70.092619)
         (xy 73.276643 70.326759)
         (xy 73.271471 70.340627)
-        (xy 73.217987 70.586493)
+        (xy 73.217436 70.589026)
         (xy 73.215205 70.59928)
         (xy 73.215204 70.599286)
         (xy 73.196321 70.863305)
@@ -52317,11 +52317,14 @@
         (xy 149.740179 70.712582)
         (xy 149.74018 70.712582)
         (xy 149.740176 70.71258)
-        (xy 149.62593 70.658719)
-        (xy 149.567201 70.631032)
-        (xy 149.565875 70.630368)
-        (xy 149.544696 70.619115)
-        (xy 149.541627 70.618976)
+        (xy 149.633266 70.662178)
+        (xy 149.568235 70.63152)
+        (xy 149.566905 70.630853)
+        (xy 149.545225 70.619329)
+        (xy 149.542079 70.619188)
+        (xy 149.541923 70.619115)
+        (xy 149.478099 70.589026)
+        (xy 149.4781 70.589026)
         (xy 149.478095 70.589024)
         (xy 149.478081 70.589019)
         (xy 149.204226 70.494446)
@@ -52343,10 +52346,10 @@
         (xy 147.772379 70.482375)
         (xy 147.496951 70.572323)
         (xy 147.496944 70.572325)
-        (xy 147.433078 70.601129)
-        (xy 147.429955 70.601225)
-        (xy 147.408426 70.612207)
-        (xy 147.407074 70.612856)
+        (xy 147.432646 70.601324)
+        (xy 147.42944 70.601423)
+        (xy 147.407409 70.612666)
+        (xy 147.406052 70.613317)
         (xy 147.232821 70.691445)
         (xy 147.232803 70.691454)
         (xy 147.164696 70.731531)
@@ -52456,7 +52459,7 @@
         (xy 158.387782 70.176172)
         (xy 158.521485 70.421029)
         (xy 158.521494 70.421045)
-        (xy 158.678693 70.631038)
+        (xy 158.677913 70.629996)
         (xy 158.688699 70.644405)
         (xy 158.885976 70.841682)
         (xy 158.885979 70.841684)
@@ -56426,7 +56429,7 @@
         (xy 158.387782 70.176172)
         (xy 158.521485 70.421029)
         (xy 158.521494 70.421045)
-        (xy 158.678693 70.631038)
+        (xy 158.679053 70.631519)
         (xy 158.688699 70.644405)
         (xy 158.885976 70.841682)
         (xy 158.885979 70.841684)
@@ -71793,10 +71796,13 @@
         (xy 149.86412 70.787876)
         (xy 149.859384 70.785457)
         (xy 149.740176 70.71258)
-        (xy 149.567213 70.631038)
-        (xy 149.565876 70.630368)
-        (xy 149.544697 70.619115)
-        (xy 149.541627 70.618976)
+        (xy 149.568233 70.631519)
+        (xy 149.566892 70.630847)
+        (xy 149.545211 70.619323)
+        (xy 149.542063 70.619181)
+        (xy 149.541923 70.619115)
+        (xy 149.478099 70.589026)
+        (xy 149.4781 70.589026)
         (xy 149.478095 70.589024)
         (xy 149.478081 70.589019)
         (xy 149.204226 70.494446)
@@ -71818,10 +71824,10 @@
         (xy 147.772379 70.482375)
         (xy 147.496951 70.572323)
         (xy 147.496944 70.572325)
-        (xy 147.433078 70.601129)
-        (xy 147.429955 70.601225)
-        (xy 147.408426 70.612207)
-        (xy 147.407074 70.612856)
+        (xy 147.432646 70.601324)
+        (xy 147.42944 70.601423)
+        (xy 147.407409 70.612666)
+        (xy 147.406052 70.613317)
         (xy 147.232821 70.691445)
         (xy 147.232803 70.691454)
         (xy 147.164696 70.731531)
@@ -73046,7 +73052,7 @@
         (xy 134.755896 70.176156)
         (xy 134.889607 70.421028)
         (xy 134.889608 70.421029)
-        (xy 135.046819 70.631038)
+        (xy 135.047179 70.631519)
         (xy 135.056813 70.644389)
         (xy 135.25409 70.841666)
         (xy 135.254093 70.841668)
@@ -73104,7 +73110,7 @@
         (xy 142.950926 70.827673)
         (xy 142.949254 70.792553)
         (xy 142.94151 70.629991)
-        (xy 142.938871 70.619115)
+        (xy 142.938887 70.619181)
         (xy 142.930954 70.58648)
         (xy 142.89196 70.425745)
         (xy 142.804652 70.234568)

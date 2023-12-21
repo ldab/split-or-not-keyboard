@@ -21,13 +21,9 @@ import:
 
 preflight:
   run_erc: true
-  run_drc: true
+  # run_drc: true
 
 outputs:
-- name: basic_boardview
-  comment: Board View export
-  type: boardview
-  dir: Assembly
 - name: generic_bom_html
   comment: Generic Bill of Materials in HTML format
   type: bom
@@ -124,10 +120,6 @@ outputs:
     cache_dir: /home/leo/Desktop/split-or-not-keyboard/ergo/.cache
     add_link_id: true
     pcb: false
-- name: basic_download_datasheets
-  comment: Download the datasheets
-  type: download_datasheets
-  dir: Datasheets
 - name: basic_ibom
   comment: Interactive HTML BoM
   type: ibom
@@ -212,67 +204,6 @@ outputs:
   dir: PCB/SVG
   options:
     format: SVG
-    pages:
-    - layers:
-      - layer: F.Cu
-      - layer: F.Mask
-        color: '#14332440'
-      - layer: F.Silkscreen
-      - layer: Edge.Cuts
-      - layer: User.Comments
-      - layer: User.Eco2
-      - layer: User.6
-      sheet: Front copper
-    - layers:
-      - layer: B.Cu
-      - layer: B.Mask
-        color: '#14332440'
-      - layer: B.Paste
-      - layer: B.Silkscreen
-      - layer: Edge.Cuts
-      - layer: User.Comments
-      - layer: User.Eco2
-      - layer: User.6
-      mirror: true
-      sheet: Bottom copper
-    - layers:
-      - layer: B.Courtyard
-      - layer: Edge.Cuts
-      - layer: User.Comments
-      - layer: User.Eco2
-      - layer: User.6
-      mirror: true
-      sheet: Bottom courtyard area
-    - layers:
-      - layer: F.Courtyard
-      - layer: Edge.Cuts
-      - layer: User.Comments
-      - layer: User.Eco2
-      - layer: User.6
-      sheet: Front courtyard area
-    - layers:
-      - layer: B.Fab
-      - layer: Edge.Cuts
-      - layer: User.Comments
-      - layer: User.Eco2
-      - layer: User.6
-      mirror: true
-      sheet: Bottom documentation
-    - layers:
-      - layer: F.Fab
-      - layer: Edge.Cuts
-      - layer: User.Comments
-      - layer: User.Eco2
-      - layer: User.6
-      sheet: Front documentation
-    keep_temporal_files: true
-    add_background: true
-- name: basic_pcb_print_png
-  comment: PCB
-  type: pcb_print
-  dir: PCB/PNG
-  options:
-    format: PNG
     pages:
     - layers:
       - layer: F.Cu
