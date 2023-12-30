@@ -1,0 +1,10 @@
+file_format: "1"
+id: son_basic60
+name: son_basic60
+type: shield
+url: https://github.com/ldab/son_basic60
+requires: [seeed_xiao]
+features:
+  - keys
+outputs:
+  - usb
