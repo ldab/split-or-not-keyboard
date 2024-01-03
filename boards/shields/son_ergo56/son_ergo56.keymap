@@ -3,26 +3,62 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/outputs.h>
 
+#define DEFAULT 0
+#define NAVI    1
+
+&mt {
+    tapping-term-ms = <200>;
+};
+
 / {
+    behaviors {
+        // Left shift + Backspace = Delete
+        bspc_del: backspace_delete {
+            compatible = "zmk,behavior-mod-morph";
+            #binding-cells = <0>;
+            bindings = <&kp BACKSPACE>, <&kp DELETE>;
+            mods = <(MOD_LSFT|MOD_RSFT)>;
+            keep-mods = <(MOD_RSFT)>;
+        };
+        // Left control + left bracket = right bracket
+        ctrl_bracket: ctrl_bracket {
+            compatible = "zmk,behavior-mod-morph";
+            #binding-cells = <0>;
+            bindings = <&kp LEFT_BRACKET>, <&kp RIGHT_BRACKET>;
+            mods = <MOD_LCTL>;
+            keep-mods = <(MOD_LSFT)>;
+        };
+        // Left control + Escape = grave/tilda
+        grave_esc: grave_esc {
+            compatible = "zmk,behavior-mod-morph";
+            #binding-cells = <0>;
+            bindings = <&kp ESC>, <&kp GRAVE>;
+            mods = <MOD_LCTL>;
+            keep-mods = <(MOD_LSFT)>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
         default_layer {
-//          -------------------------------------------------------------------------------------------------------------------------
-//          |   ESC   |    1    |    2    |    3    |    4    |    5    ||    6    |    7    |    8    |    9    |    0    |   DEL   |
-//          |   TAB   |    Q    |    W    |    E    |    R    |    T    ||    Y    |    U    |    I    |    O    |    P    |   BSPC  |
-//          |   CAPS  |    A    |    S    |    D    |    F    |    G    ||    H    |    J    |    K    |    L    |    ;    |    U    |
-//          |   SHIFT |  trans  |    Z    |    X    |    C    |    V    |    B    ||    N    |    M    |    ,    |    .    |    /    |
-//          |   CTRL  |   GUI   |   ALT   |  BT_CLR | OUT_TOG |  SPACE  ||  SPACE  |   RET   |   LEFT  |   DOWN  |    UP   |  RIGHT  |
-
             bindings = <
-                &kp ESC    &kp N1   &kp N2   &kp N3     &kp N4       &kp N5    &kp N6    &kp N7    &kp N8    &kp N9     &kp N0     &kp DEL
-                &kp TAB    &kp Q    &kp W    &kp E      &kp R        &kp T     &kp Y     &kp U     &kp I     &kp O      &kp P      &kp BSPC
-                &caps_word &kp A    &kp S    &kp D      &kp F        &kp G     &kp H     &kp J     &kp K     &kp L      &kp SEMI   &kp SINGLE_QUOTE
-                &sk LSHIFT &trans   &kp Z    &kp X      &kp C        &kp V     &kp B     &kp N     &kp M     &kp COMMA  &kp UP     &kp SLASH
-                           &kp LCTRL  &kp LGUI &kp LALT &kp SPACE    &kp SPACE &kp LEFT  &kp DOWN  &kp RIGHT
+            &grave_esc &kp N1   &kp N2    &kp N3   &kp N4   &kp N5    &kp N6    &kp N7   &kp N8    &mt MINUS N9 &mt EQUAL N0 &bspc_del
+            &kp TAB    &kp Q    &kp W     &kp E    &kp R    &kp T     &kp Y     &kp U    &kp I     &kp O        &mt PIPE P   &ctrl_bracket
+            &caps_word &kp A    &kp S     &kp D    &kp F    &kp G     &kp H     &kp J    &kp K     &kp L        &kp SEMI     &kp SINGLE_QUOTE
+            &sk LSHIFT &kp Z    &kp X     &kp C    &kp V    &kp B     &kp N     &kp M    &kp COMMA &kp DOT      &kp SLASH
+                                &kp LCTRL &kp LGUI &kp LALT &kp SPACE &kp LEFT  &kp DOWN &kp UP    &kp RIGHT
             >;
+        };
 
+        nav_layer {
+            bindings = <
+            &kp ESC    &kp F1      &kp F2   &kp F3      &kp F4     &kp F5       &kp F6    &kp F7    &kp F8    &kp F9     &kp F10    &kp DEL
+            &kp TAB    &kp Q       &kp W    &kp E       &kp R      &kp T        &kp Y     &kp U     &kp I     &kp O      &kp P      &kp BSPC
+            &caps_word &kp A       &kp S    &kp D       &kp F      &kp G        &kp H     &kp J     &kp K     &kp L      &kp SEMI   &kp RET
+            &sk LSHIFT &to DEFAULT &kp Z    &kp X       &kp C      &kp V        &kp B     &kp N     &kp M     &kp COMMA  &kp UP     &kp SLASH
+                                &kp LCTRL &kp LGUI &kp LALT &kp SPACE &kp SPACE &kp LEFT  &kp DOWN  &kp RIGHT
+            >;
         };
     };
 };
