@@ -1,4 +1,5 @@
 # split-or-not-keyboard
+
 FoMO ZMK Ortholinear keyboard, if you can't decide between split or not.
 
 [![GitHub version](https://img.shields.io/github/v/release/ldab/split-or-not-keyboard?include_prereleases)](https://github.com/ldab/split-or-not-keyboard/releases/latest)
@@ -13,6 +14,10 @@ FoMO ZMK Ortholinear keyboard, if you can't decide between split or not.
 
 ## Todo
 
+## Note
+
+- Polling mode add extra 60uA
+-
 
 ## Why?
 
@@ -20,10 +25,9 @@ Maybe you are here because you are considering a ZMK keyboard and you don't know
 
 ## How?
 
-
 ## Designed with KiCAD 7.09
 
-* Important libs are added as plugin as per described on https://github.com/ebastler/marbastlib
+- Important libs are added as plugin as per described on https://github.com/ebastler/marbastlib
 
 ## Variants
 
@@ -41,6 +45,6 @@ Maybe you are here because you are considering a ZMK keyboard and you don't know
 
 ## Outro
 
-* Some similarities with below may be found:
-  * https://github.com/piit79/rev57lp/
-  * https://github.com/MakotoKurauchi/helix
+- Some similarities with below may be found:
+  - https://github.com/piit79/rev57lp/
+  - https://github.com/MakotoKurauchi/helix
