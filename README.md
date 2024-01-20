@@ -9,7 +9,7 @@ FoMO ZMK Ortholinear keyboard, if you can't decide between split or not.
 [![GitHub last commit](https://img.shields.io/github/last-commit/ldab/split-or-not-keyboard.svg?style=social)](https://github.com/ldab/split-or-not-keyboard)
 
 <p align="center">
-  <img src="extras/split-or-not-keyboard.png" width="30%">
+  <img src=".github/PXL_20231230_114352764.jpg" width="30%">
 </p>
 
 ## Todo
@@ -29,9 +29,30 @@ Maybe you are here because you are considering a ZMK keyboard and you don't know
 
 - Important libs are added as plugin as per described on https://github.com/ebastler/marbastlib
 
+## BOM
+
+* 1x Seeed Studio XIAO nRF52840
+* 1x PCA9555 GPIO Expander
+* 60x 1N4148W diodes
+* 60x Kailh choc switches
+* 60x Kailh choc keycap
+* 60x Kailh choc Hotswap Sockets
+
 ## Variants
 
-### Ergo
+### Basic60
+
+![ergo](./basic)
+
+<p align="center">
+  <img src="baisc/3D/basic60-3D_top30deg.png.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="basic/Schematic/basic60-schematic.svg" width="30%">
+</p>
+
+### Ergo56
 
 ![ergo](./ergo)
 
@@ -43,8 +64,11 @@ Maybe you are here because you are considering a ZMK keyboard and you don't know
   <img src="ergo/Schematic/ergo56-schematic.svg" width="30%">
 </p>
 
+## Battery life
+
+
+
 ## Outro
 
 - Some similarities with below may be found:
   - https://github.com/piit79/rev57lp/
-  - https://github.com/MakotoKurauchi/helix
