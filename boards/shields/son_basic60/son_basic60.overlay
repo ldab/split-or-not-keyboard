@@ -70,6 +70,13 @@
         , <&gpioexp 0  (GPIO_ACTIVE_LOW)>
         , <&gpioexp 1  (GPIO_ACTIVE_LOW)>
         , <&gpioexp 8  (GPIO_ACTIVE_LOW)>
+
+        // Set unused GPIOS below as output otherwise float leaks
+        , <&gpioexp 11  (GPIO_ACTIVE_HIGH)>
+        , <&gpioexp 12  (GPIO_ACTIVE_HIGH)>
+        , <&gpioexp 13  (GPIO_ACTIVE_HIGH)>
+        , <&gpioexp 14  (GPIO_ACTIVE_HIGH)>
+        , <&gpioexp 15  (GPIO_ACTIVE_HIGH)>
         ;
     };
 
@@ -116,7 +123,8 @@
         reg = <0x20>;
         gpio-controller;
         #gpio-cells = <2>;
-        ngpios = <11>;
+        ngpios = <16>;
+        interrupt-gpios = <&gpio1 0 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
     };
 };
 
