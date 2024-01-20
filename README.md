@@ -42,10 +42,10 @@ Maybe you are here because you are considering a ZMK keyboard and you don't know
 
 ### Basic60
 
-![ergo](./basic)
+![basic](./basic)
 
 <p align="center">
-  <img src="baisc/3D/basic60-3D_top30deg.png.png" width="30%">
+  <img src="basic/3D/basic60-3D_top30deg.png" width="30%">
 </p>
 
 <p align="center">
