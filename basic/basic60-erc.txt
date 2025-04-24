@@ -1,0 +1,603 @@
+ERC report (Thu 21 Dec 2023 11:36:54 PM CET, Encoding UTF8)
+
+***** Sheet /
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(17.7800 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(17.7800 mm, 104.7750 mm): Symbol SW49 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 52.0700 mm): Horizontal Wire, length 4.4450 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 52.0700 mm): Symbol D18 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 27.9400 mm): Vertical Wire, length 16.5100 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 27.9400 mm): Symbol SW6 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 44.4500 mm): Vertical Wire, length 19.0500 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 35.5600 mm): Horizontal Wire, length 4.4450 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 44.4500 mm): Symbol SW18 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 35.5600 mm): Symbol D6 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 25.4000 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 44.4500 mm): Vertical Wire, length 19.0500 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(90.1700 mm, 35.5600 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 27.9400 mm): Vertical Wire, length 16.5100 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 35.5600 mm): Symbol D5 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 35.5600 mm): Horizontal Wire, length 24.1300 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(90.1700 mm, 52.0700 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 44.4500 mm): Symbol SW17 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 52.0700 mm): Horizontal Wire, length 24.1300 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 52.0700 mm): Symbol D17 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 25.4000 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 27.9400 mm): Symbol SW5 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(170.1800 mm, 104.7750 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 91.4400 mm): Symbol D43 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 104.7750 mm): Symbol SW55 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 27.9400 mm): Vertical Wire, length 16.5100 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 27.9400 mm): Symbol SW11 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 25.4000 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 27.9400 mm): Symbol SW12 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 27.9400 mm): Vertical Wire, length 16.5100 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 35.5600 mm): Horizontal Wire, length 5.0800 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 35.5600 mm): Symbol D12 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 25.4000 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 35.5600 mm): Symbol D11 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 35.5600 mm): Horizontal Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(222.2500 mm, 35.5600 mm): Horizontal Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 63.5000 mm): Symbol SW35 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 63.5000 mm): Vertical Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 104.7750 mm): Symbol SW59 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(222.2500 mm, 71.1200 mm): Horizontal Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 71.1200 mm): Horizontal Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 71.1200 mm): Symbol D35 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 83.8200 mm): Symbol SW47 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 35.5600 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 44.4500 mm): Symbol SW19 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 27.9400 mm): Symbol SW7 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 44.4500 mm): Vertical Wire, length 19.0500 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 27.9400 mm): Vertical Wire, length 16.5100 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 25.4000 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 52.0700 mm): Symbol D19 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 52.0700 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 35.5600 mm): Symbol D7 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 63.5000 mm): Symbol SW31 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 44.4500 mm): Symbol SW23 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(233.0450 mm, 44.4500 mm): Vertical Wire, length 19.0500 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 52.0700 mm): Symbol D23 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 52.0700 mm): Horizontal Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(222.2500 mm, 52.0700 mm): Horizontal Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 52.0700 mm): Horizontal Wire, length 5.0800 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 52.0700 mm): Symbol D24 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 44.4500 mm): Vertical Wire, length 19.0500 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 44.4500 mm): Symbol SW24 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 104.7750 mm): Symbol SW60 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 83.8200 mm): Symbol SW48 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 91.4400 mm): Horizontal Wire, length 5.0800 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 91.4400 mm): Symbol D48 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 63.5000 mm): Symbol SW36 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 63.5000 mm): Vertical Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 91.4400 mm): Horizontal Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 91.4400 mm): Symbol D47 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(222.2500 mm, 91.4400 mm): Horizontal Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(253.3650 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 71.1200 mm): Horizontal Wire, length 5.0800 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 71.1200 mm): Symbol D36 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(40.0050 mm, 176.5300 mm): Vertical Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(40.0050 mm, 176.5300 mm): Symbol #PWR016 Hidden pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(31.1150 mm, 184.1500 mm): Horizontal Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(32.3850 mm, 184.1500 mm): Vertical Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(32.3850 mm, 182.8800 mm): Symbol R1 Pin 2 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(67.3100 mm, 183.5150 mm): Symbol #PWR019 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(67.3100 mm, 183.5150 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(67.3100 mm, 180.9750 mm): Horizontal Wire, length 7.6200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(67.3100 mm, 178.4350 mm): Horizontal Wire, length 5.0800 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(40.0050 mm, 186.6900 mm): Vertical Wire, length 3.8100 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(31.1150 mm, 186.6900 mm): Horizontal Wire, length 8.8900 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(40.0050 mm, 182.8800 mm): Symbol R2 Pin 2 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(32.3850 mm, 176.5300 mm): Vertical Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(32.3850 mm, 176.5300 mm): Symbol #PWR015 Hidden pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(74.9300 mm, 180.9750 mm): Symbol J4 Pin 1 [Pin_1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.2200 mm, 169.5450 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.2200 mm, 172.0850 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.2200 mm, 172.0850 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(72.3900 mm, 178.4350 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(72.3900 mm, 178.4350 mm): Symbol #FLG01 Pin 1 [pwr, Power output, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(124.4600 mm, 179.7050 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(124.4600 mm, 182.2450 mm): Symbol #PWR018 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.2200 mm, 174.6250 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.2200 mm, 177.1650 mm): Vertical Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.2200 mm, 174.6250 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.2200 mm, 177.1650 mm): Symbol #PWR017 Hidden pin 1 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; Severity: error (excluded)
+    @(62.2300 mm, 137.1600 mm): Symbol U1 Pin 9 [GND, Power output, Line]
+    @(54.6100 mm, 129.5400 mm): Symbol U1 Pin 22 [GND, Power output, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(93.9800 mm, 127.6350 mm): Vertical Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(90.1700 mm, 112.3950 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(68.5800 mm, 112.3950 mm): Horizontal Wire, length 21.5900 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(68.5800 mm, 112.3950 mm): Symbol D51 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(110.4900 mm, 133.9850 mm): Horizontal Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(124.4600 mm, 127.0000 mm): Vertical Wire, length 1.9050 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(110.4900 mm, 136.5250 mm): Horizontal Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 112.3950 mm): Horizontal Wire, length 24.1300 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 112.3950 mm): Symbol D53 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 104.7750 mm): Symbol SW53 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(58.4200 mm, 104.7750 mm): Symbol SW51 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(58.4200 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(39.3700 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(39.3700 mm, 104.7750 mm): Symbol SW50 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(27.9400 mm, 112.3950 mm): Horizontal Wire, length 21.5900 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(27.9400 mm, 112.3950 mm): Symbol D49 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(49.5300 mm, 112.3950 mm): Horizontal Wire, length 19.0500 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(49.5300 mm, 112.3950 mm): Symbol D50 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 159.3850 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 161.9250 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 174.6250 mm): Symbol U2 Pin 20 [IO1_7, Bidirectional, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 156.8450 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 151.7650 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 144.1450 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 146.6850 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 149.2250 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 139.0650 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 141.6050 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 136.5250 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(137.1600 mm, 133.9850 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(93.9800 mm, 133.9850 mm): Vertical Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(93.9800 mm, 135.2550 mm): Symbol #PWR08 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(93.9800 mm, 128.9050 mm): Symbol C1 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(93.9800 mm, 127.6350 mm): Symbol #PWR03 Hidden pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 63.5000 mm): Symbol SW29 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 112.3950 mm): Horizontal Wire, length 4.4450 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 112.3950 mm): Symbol D54 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 104.7750 mm): Symbol SW54 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 63.5000 mm): Vertical Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 71.1200 mm): Horizontal Wire, length 4.4450 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 71.1200 mm): Symbol D30 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 91.4400 mm): Horizontal Wire, length 4.4450 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(133.9850 mm, 91.4400 mm): Symbol D42 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 83.8200 mm): Symbol SW42 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 91.4400 mm): Horizontal Wire, length 24.1300 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(90.1700 mm, 91.4400 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 91.4400 mm): Symbol D41 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(80.0100 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(80.0100 mm, 104.7750 mm): Symbol SW52 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(90.1700 mm, 112.3950 mm): Symbol D52 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 71.1200 mm): Horizontal Wire, length 24.1300 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(90.1700 mm, 71.1200 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(123.8250 mm, 63.5000 mm): Symbol SW30 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(109.8550 mm, 71.1200 mm): Symbol D29 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 63.5000 mm): Vertical Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 83.8200 mm): Symbol SW41 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(99.6950 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(172.0850 mm, 104.7750 mm): Horizontal Wire, length 1.9050 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(190.5000 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(190.5000 mm, 104.7750 mm): Symbol SW57 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 91.4400 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(172.0850 mm, 104.7750 mm): Symbol SW56 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(200.6600 mm, 112.3950 mm): Horizontal Wire, length 21.5900 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(212.0900 mm, 104.7750 mm): Symbol SW58 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(200.6600 mm, 112.3950 mm): Symbol D57 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(212.0900 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(182.2450 mm, 112.3950 mm): Horizontal Wire, length 18.4150 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(182.2450 mm, 112.3950 mm): Symbol D56 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 112.3950 mm): Horizontal Wire, length 21.5900 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 112.3950 mm): Symbol D55 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(222.2500 mm, 112.3950 mm): Horizontal Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(222.2500 mm, 112.3950 mm): Symbol D58 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(252.0950 mm, 143.5100 mm): Horizontal Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(252.0950 mm, 140.9700 mm): Horizontal Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(252.0950 mm, 146.0500 mm): Symbol J1 Pin 6 [SWO, Input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(241.9350 mm, 151.1300 mm): Vertical Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(241.9350 mm, 152.4000 mm): Symbol #PWR013 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(208.9150 mm, 141.6050 mm): Symbol #PWR011 Hidden pin 1 [GND, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(252.0950 mm, 135.8900 mm): Horizontal Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(241.9350 mm, 129.5400 mm): Vertical Wire, length 1.2700 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(241.9350 mm, 129.5400 mm): Symbol #PWR04 Hidden pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 112.3950 mm): Horizontal Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 112.3950 mm): Symbol D60 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(263.5250 mm, 112.3950 mm): Horizontal Wire, length 5.0800 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(243.2050 mm, 112.3950 mm): Symbol D59 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 63.5000 mm): Vertical Wire, length 20.3200 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 83.8200 mm): Symbol SW43 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(150.4950 mm, 83.8200 mm): Vertical Wire, length 20.9550 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 71.1200 mm): Horizontal Wire, length 19.6850 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(160.6550 mm, 71.1200 mm): Symbol D31 Pin 1 [K, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(206.3750 mm, 144.1450 mm): Symbol J2 Pin R [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(206.3750 mm, 146.6850 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(206.3750 mm, 141.6050 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(206.3750 mm, 144.1450 mm): Horizontal Wire, length 2.5400 mm
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(201.2950 mm, 133.9850 mm): Symbol #PWR06 Hidden pin 1 [+3V3, Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off grid
+    ; Severity: warning
+    @(201.2950 mm, 133.9850 mm): Vertical Wire, length 2.5400 mm
+
+ ** ERC messages: 199  Errors 1  Warnings 198
