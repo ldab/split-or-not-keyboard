@@ -1,0 +1,9 @@
+# Copyright (c) 2023 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_SON_BASIC60
+
+config ZMK_KEYBOARD_NAME
+    default "Son_Basic60"
+
+endif
